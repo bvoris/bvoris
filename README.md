@@ -21,6 +21,6 @@ My name is Brad Voris and I am a Security Professional who is passionate about s
 www.VictimOfTechnology.com
 OR
 www.CyberForgeSecurity.com
-<a href="https://VictimOfTechnology.com.com/"><img alt="nice hacker logo" src="https://www.cyberforgesecurity.com/wp-content/uploads/2020/04/Anvil-V2-01.png" align="center" /></a>
+<a href="https://VictimOfTechnology.com.com/"><img alt="nice hacker logo" src="https://www.cyberforgesecurity.com/wp-content/uploads/2020/04/Anvil-V2-01.png" height="751" width="531" align="center" /></a>
 ## Some of my Github Stats
 ![JGamblin github stats](https://github-readme-stats.vercel.app/api?username=bvoris&show_icons=true)
