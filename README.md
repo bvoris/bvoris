@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Brad Voris and I am a Security Professional who is passionate about scripting.
+
+## Some of my Github Stats
+![JGamblin github stats](https://github-readme-stats.vercel.app/api?username=bvoris&show_icons=true)
