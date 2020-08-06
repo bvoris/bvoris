@@ -22,6 +22,6 @@ www.VictimOfTechnology.com
 
 www.CyberForgeSecurity.com
 <BR />
-<a href="https://www.CyberForgeSecurity.com/"><img alt="nice hacker logo" src="https://www.cyberforgesecurity.com/wp-content/uploads/2020/04/Anvil-V2-01.png" height=35% width=35% align="center" target="_blank" /></a>
+<CENTER><a href="https://www.CyberForgeSecurity.com/"><img alt="nice hacker logo" src="https://www.cyberforgesecurity.com/wp-content/uploads/2020/04/Anvil-V2-01.png" height=35% width=35% align="center" target="_blank" /></a><CENTER />
 ## Some of my Github Stats
 ![JGamblin github stats](https://github-readme-stats.vercel.app/api?username=bvoris&show_icons=true)
