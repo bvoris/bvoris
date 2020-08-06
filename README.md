@@ -1,4 +1,4 @@
-<a href="https://VictimOfTechnology.com/"><img alt="nice hacker logo" src="https://media-exp1.licdn.com/dms/image/C5612AQGff6n5dlMr5Q/article-cover_image-shrink_720_1280/0?e=1602115200&v=beta&t=J4kLsF5Rd1_2ysp03tiF8OY0UO-H4zaJa9KMv9NvLDs" align="center" target="_blank" /></a>
+<img alt="nice hacker logo" src="https://media-exp1.licdn.com/dms/image/C4E16AQHYD1PpCA_XNw/profile-displaybackgroundimage-shrink_350_1400/0?e=1602115200&v=beta&t=3LNC5kt0g7hq6m4mHM0JdxmYGilshQ9RBghOIEC9RsU" align="center" target="_blank" />
 
 ### Hi there 👋
 
