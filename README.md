@@ -37,7 +37,7 @@ PoSh Webserver Security Report<BR />
 https://github.com/bvoris/PoShWebserverSecurityReport
 <BR /><BR />
 ## Project Catagorization 
-Security Related Scripts and Applications<BR />
+<B>Security Related Scripts and Applications<B /><BR />
 SettingContent-MS-File-Execution<BR />
 https://github.com/bvoris/SettingContent-MS-File-Execution
 <BR /><BR />
