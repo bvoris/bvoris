@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 My name is Brad Voris and I am a Security Professional who is passionate about scripting.
 ## Visit me at
 www.VictimOfTechnology.com
-
+www.linkedin.com/in/brad-voris
 www.CyberForgeSecurity.com
 <BR />
 <CENTER><a href="https://www.CyberForgeSecurity.com/"><img alt="nice hacker logo" src="https://www.cyberforgesecurity.com/wp-content/uploads/2020/04/Anvil-V2-01.png" height=35% width=35% align="center" target="_blank" /></a><CENTER />
