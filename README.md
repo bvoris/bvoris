@@ -40,13 +40,30 @@ https://github.com/bvoris/PoShWebserverSecurityReport
 <B>Security Related Scripts and Applications<B /><BR />
 SettingContent-MS-File-Execution<BR />
 https://github.com/bvoris/SettingContent-MS-File-Execution
-<BR /><BR />
+<BR />
 base64obfuscatinginpowershell<BR />
 https://github.com/bvoris/base64obfuscatinginpowershell
-<BR /><BR />
+<BR />
 RedTeamRecon<BR />
 https://github.com/bvoris/RedTeamRecon
-<BR /><BR />
+<BR />
 PoShWebserverSecurityReport<BR />
 https://github.com/bvoris/PoShWebserverSecurityReport
 <BR /><BR />
+
+<B>Active Directory Domain Services (ADDS) Scripts and Applications<B /><BR />
+ADPAMReport<BR />
+https://github.com/bvoris/ADPAMReport
+<BR />
+ADDSPasswordExpirationReport <BR />
+https://github.com/bvoris/ADDSPasswordExpirationReport
+<BR />
+addslastlogonreport<BR />
+https://github.com/bvoris/addslastlogonreport
+<BR />
+PoShSearchADonEmail<BR />
+https://github.com/bvoris/PoShSearchADonEmail
+<BR />
+SID-from-Active-Directory-Name-or-Group-Name<BR />
+https://github.com/bvoris/SID-from-Active-Directory-Name-or-Group-Name
+<BR />
