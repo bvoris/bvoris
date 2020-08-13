@@ -38,27 +38,30 @@ https://github.com/bvoris/PoShWebserverSecurityReport
 <BR /><BR />
 ## Project Catagorization 
 <B>Security Related Scripts and Applications<B /><BR />
-SettingContent-MS-File-Execution<BR />
+SettingContent-MS-File-Execution - Proof of concept for exploitation of SettingContent-MS file format in PowerShell<BR />
 https://github.com/bvoris/SettingContent-MS-File-Execution
 <BR />
-base64obfuscatinginpowershell<BR />
+base64obfuscatinginpowershell - How to obfuscate processes and date in base64 from PowerShell<BR />
 https://github.com/bvoris/base64obfuscatinginpowershell
 <BR />
-RedTeamRecon<BR />
+RedTeamRecon - Red team utility to export sensitive configuration date of a domain and systems to a file.<BR />
 https://github.com/bvoris/RedTeamRecon
 <BR />
-PoShWebserverSecurityReport<BR />
+PoShWebserverSecurityReport - An advanced PowerShell report that uses C# to test and validate webserver configuration settings.<BR />
 https://github.com/bvoris/PoShWebserverSecurityReport
 <BR /><BR />
 
 <B>Active Directory Domain Services (ADDS) Scripts and Applications<B /><BR />
-ADPAMReport<BR />
+PSUserSecurityReport - Export all users from ADDS to a CSV file for auditing.<BR />
+https://github.com/bvoris/PSUserSecurityReport
+<BR />
+ADPAMReport - Export all privileged access management groups in ADDS to HTML report for auditing.<BR />
 https://github.com/bvoris/ADPAMReport
 <BR />
-ADDSPasswordExpirationReport <BR />
+ADDSPasswordExpirationReport - Report in ADDS to verify password expiration<BR />
 https://github.com/bvoris/ADDSPasswordExpirationReport
 <BR />
-addslastlogonreport<BR />
+addslastlogonreport - Report in ADDS on last time users logged in<BR />
 https://github.com/bvoris/addslastlogonreport
 <BR />
 PoShSearchADonEmail<BR />
