@@ -69,4 +69,15 @@ https://github.com/bvoris/PoShSearchADonEmail
 <BR />
 SID-from-Active-Directory-Name-or-Group-Name<BR />
 https://github.com/bvoris/SID-from-Active-Directory-Name-or-Group-Name
+<BR /><BR />
+  
+<B>Misc Scripts and apps<B /><BR />
+NoSleepTillBrooklyn - PowerShell script that keeps your screensaver / screen lock from running.<BR />
+https://github.com/bvoris/NoSleepTillBrooklyn
+<BR />
+PoShSpeechSynth - PowerShell Speech Synthesizer<BR />
+https://github.com/bvoris/PoShSpeechSynth
+<BR />
+LANMonkey - HyperText Application with some web based tools for networking<BR />
+https://github.com/bvoris/LANMonkey
 <BR />
