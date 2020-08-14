@@ -36,64 +36,66 @@ https://github.com/bvoris/PSNetMon
 PoSh Webserver Security Report<BR />
 https://github.com/bvoris/PoShWebserverSecurityReport
 <BR /><BR />
+
 ## Project Catagorization 
 <B>Security Related Scripts and Applications<B /><BR />
 SettingContent-MS-File-Execution - Proof of concept for exploitation of SettingContent-MS file format in PowerShell<BR />
 https://github.com/bvoris/SettingContent-MS-File-Execution
-<BR />
+<BR /><BR />
 base64obfuscatinginpowershell - How to obfuscate processes and date in base64 from PowerShell<BR />
 https://github.com/bvoris/base64obfuscatinginpowershell
-<BR />
+<BR /><BR />
 RedTeamRecon - Red team utility to export sensitive configuration date of a domain and systems to a file.<BR />
 https://github.com/bvoris/RedTeamRecon
-<BR />
+<BR /><BR />
 PoShWebserverSecurityReport - An advanced PowerShell report that uses C# to test and validate webserver configuration settings.<BR />
 https://github.com/bvoris/PoShWebserverSecurityReport
-<BR /><BR />
+<BR /><BR /><BR />
 
 <B>Active Directory Domain Services (ADDS) Scripts and Applications<B /><BR />
 PSUserSecurityReport - Export all users from ADDS to a CSV file for auditing.<BR />
 https://github.com/bvoris/PSUserSecurityReport
-<BR />
+<BR /><BR />
 ADPAMReport - Export all privileged access management groups in ADDS to HTML report for auditing.<BR />
 https://github.com/bvoris/ADPAMReport
-<BR />
+<BR /><BR />
 ADDSPasswordExpirationReport - Report in ADDS to verify password expiration<BR />
 https://github.com/bvoris/ADDSPasswordExpirationReport
-<BR />
+<BR /><BR />
 addslastlogonreport - Report in ADDS on last time users logged in<BR />
 https://github.com/bvoris/addslastlogonreport
-<BR />
+<BR /><BR />
 PoShSearchADonEmail<BR />
 https://github.com/bvoris/PoShSearchADonEmail
-<BR />
+<BR /><BR />
 SID-from-Active-Directory-Name-or-Group-Name<BR />
 https://github.com/bvoris/SID-from-Active-Directory-Name-or-Group-Name
-<BR />
+<BR /><BR />
 PoShExportADOUStructure - PowerShell Export Organizational Unit export from Active Directory Domain Services (ADDS)<BR />
 https://github.com/bvoris/PoShExportADOUStructure
-<BR />
+<BR /><BR />
 PSBulkOUImport - PowerShell Bulk Organizational Unit Import into Active Directory Domain Services (ADDS)<BR />
 https://github.com/bvoris/PSBulkOUImport
-<BR /><BR />
+<BR /><BR /><BR />
 
 <B>MS Exchange Scripts and Applications<B /><BR />
 Exchange-2010-Clear-Poison-messages-from-the-queue - PowerShell script that clears messages stuck in the messaging queue<BR />
 https://github.com/bvoris/Exchange-2010-Clear-Poison-messages-from-the-queue
-<BR />
+<BR /><BR />
 Exchange-database-replication-report - PowerShell script that generates an HTML based Exchange database replication report<BR />
 https://github.com/bvoris/Exchange-database-replication-report
-<BR />
+<BR /><BR />
 PoSHExchangeHideUserGAL - PowerShell script to hide users from the Global Address List in Exchange<BR />
 https://github.com/bvoris/PoSHExchangeHideUserGAL
-<BR /><BR />
+<BR /><BR /><BR />
+  
 <B>Misc Scripts and Applications<B /><BR />
 NoSleepTillBrooklyn - PowerShell script that keeps your screensaver / screen lock from running.<BR />
 https://github.com/bvoris/NoSleepTillBrooklyn
-<BR />
+<BR /><BR />
 PoShSpeechSynth - PowerShell Speech Synthesizer<BR />
 https://github.com/bvoris/PoShSpeechSynth
-<BR />
+<BR /><BR />
 LANMonkey - HyperText Application with some web based tools for networking<BR />
 https://github.com/bvoris/LANMonkey
-<BR />
+<BR /><BR /><BR />
