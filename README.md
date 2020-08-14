@@ -70,7 +70,10 @@ https://github.com/bvoris/PoShSearchADonEmail
 SID-from-Active-Directory-Name-or-Group-Name<BR />
 https://github.com/bvoris/SID-from-Active-Directory-Name-or-Group-Name
 <BR />
-PSBulkOUImport - PowerShell Bulk Organizational Import into Active Directory Domain Services (ADDS)<BR />
+PoShExportADOUStructure - PowerShell Export Organizational Unit export from Active Directory Domain Services (ADDS)<BR />
+https://github.com/bvoris/PoShExportADOUStructure
+<BR />
+PSBulkOUImport - PowerShell Bulk Organizational Unit Import into Active Directory Domain Services (ADDS)<BR />
 https://github.com/bvoris/PSBulkOUImport
 <BR /><BR />
   
