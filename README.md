@@ -77,7 +77,7 @@ PSBulkOUImport - PowerShell Bulk Organizational Unit Import into Active Director
 https://github.com/bvoris/PSBulkOUImport
 <BR /><BR />
   
-<B>Misc Scripts and apps<B /><BR />
+<B>Misc Scripts and Applications<B /><BR />
 NoSleepTillBrooklyn - PowerShell script that keeps your screensaver / screen lock from running.<BR />
 https://github.com/bvoris/NoSleepTillBrooklyn
 <BR />
