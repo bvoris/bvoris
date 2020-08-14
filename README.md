@@ -76,7 +76,17 @@ https://github.com/bvoris/PoShExportADOUStructure
 PSBulkOUImport - PowerShell Bulk Organizational Unit Import into Active Directory Domain Services (ADDS)<BR />
 https://github.com/bvoris/PSBulkOUImport
 <BR /><BR />
-  
+
+<B>MS Exchange Scripts and Applications<B /><BR />
+Exchange-2010-Clear-Poison-messages-from-the-queue - PowerShell script that clears messages stuck in the messaging queue<BR />
+https://github.com/bvoris/Exchange-2010-Clear-Poison-messages-from-the-queue
+<BR />
+Exchange-database-replication-report - PowerShell script that generates an HTML based Exchange database replication report<BR />
+https://github.com/bvoris/Exchange-database-replication-report
+<BR />
+PoSHExchangeHideUserGAL - PowerShell script to hide users from the Global Address List in Exchange<BR />
+https://github.com/bvoris/PoSHExchangeHideUserGAL
+<BR /><BR />
 <B>Misc Scripts and Applications<B /><BR />
 NoSleepTillBrooklyn - PowerShell script that keeps your screensaver / screen lock from running.<BR />
 https://github.com/bvoris/NoSleepTillBrooklyn
