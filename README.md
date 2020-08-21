@@ -98,4 +98,7 @@ https://github.com/bvoris/PoShSpeechSynth
 <BR /><BR />
 LANMonkey - HyperText Application with some web based tools for networking<BR />
 https://github.com/bvoris/LANMonkey
-<BR /><BR /><BR />
+<BR /><BR />
+SysInfo - PowerShell Script that generates an HTML System Information report<BR />
+https://github.com/bvoris/SysInfo
+<BR /><BR />
