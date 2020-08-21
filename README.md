@@ -78,6 +78,11 @@ PSBulkOUImport - PowerShell Bulk Organizational Unit Import into Active Director
 https://github.com/bvoris/PSBulkOUImport
 <BR /><BR /><BR />
 
+Domain Naming Service (DNS) Scripts and Applications<B/><BR /><B>
+PoShDNSHealthReport - PowerShell Script to generate an HTML DNS Health Report
+https://github.com/bvoris/PoShDNSHealthReport
+<BR /><BR /><BR />
+
 <B>MS Exchange Scripts and Applications<B /><BR />
 Exchange-2010-Clear-Poison-messages-from-the-queue - PowerShell script that clears messages stuck in the messaging queue<BR />
 https://github.com/bvoris/Exchange-2010-Clear-Poison-messages-from-the-queue
