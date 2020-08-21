@@ -81,6 +81,12 @@ https://github.com/bvoris/PSBulkOUImport
 Domain Naming Service (DNS) Scripts and Applications<B/><BR /><B>
 PoShDNSHealthReport - PowerShell Script to generate an HTML DNS Health Report<BR />
 https://github.com/bvoris/PoShDNSHealthReport
+<BR /><BR />  
+PoShDNSScavenging1day - PowerShell Script to set DNS Scavenging to 1 day<BR />  
+https://github.com/bvoris/PoShDNSScavenging1day
+<BR /><BR />
+PoShDNSScavenging7days - PowerShell Script to set DNS Scavenging to 7 days<BR />  
+https://github.com/bvoris/PoShDNSScavenging7days
 <BR /><BR /><BR />
 
 <B>MS Exchange Scripts and Applications<B /><BR />
