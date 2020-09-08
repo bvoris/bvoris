@@ -47,6 +47,9 @@ https://github.com/bvoris/RedTeamRecon
 <BR /><BR />
 PoShWebserverSecurityReport - An advanced PowerShell report that uses C# to test and validate webserver configuration settings.<BR />
 https://github.com/bvoris/PoShWebserverSecurityReport
+<BR /><BR />
+AbuseIPDBChecker - PowerShell Script that queries an IP address from user input and exports the search results from AbuseIPDB.com
+https://github.com/bvoris/AbuseIPDBChecker
 <BR /><BR /><BR />
 
 <B>Active Directory Domain Services (ADDS) Scripts and Applications<B /><BR />
