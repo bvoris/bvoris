@@ -24,15 +24,11 @@ My name is Brad Voris and I am a Security Professional who is passionate about s
 <a href="https://www.linkedin.com/in/brad-voris" target="_blank"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/linkedin.png" WIDTH=10% HEIGHT=4% ALIGN=RIGHT></a>
 
 <BR />
-<TABLE>
-<TR>
-<TD WIDTH=50% ALIGN=LEFT>
-<A HREF="https://www.victimoftechnology.com">Victim Of Technology<A />
-<TD />
-<TD WIDTH=50% ALIGN=RIGHT>
-<A HREF="https://www.cyberforgesecurity.com">Cyber Forge Security, Inc.<A />
-<TD />
-<TR />
+
+<A HREF="https://www.victimoftechnology.com" ALIGN=LEFT>Victim Of Technology<A />
+
+<A HREF="https://www.cyberforgesecurity.com" ALIGN=RIGHT>Cyber Forge Security, Inc.<A />
+
 <TABLE />
  
   
