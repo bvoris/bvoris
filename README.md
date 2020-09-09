@@ -30,9 +30,9 @@ My name is Brad Voris and I am a Security Professional who is passionate about s
 <TD />
 <TR />
 <TABLE />
-  
-<a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% target="_blank">Follow @HMInfoSecViking</a>
-<a href="www.linkedin.com/in/brad-voris" target="_blank"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/linkedin.png" WIDTH=10% HEIGHT=10%>Connect with me on LinkedIn</a>
+ Follow and Connect with me
+<a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% target="_blank"></a>
+<a href="www.linkedin.com/in/brad-voris" target="_blank"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/linkedin.png" WIDTH=10% HEIGHT=10%></a>
 <BR />
   
 ## Some of my Github Stats
