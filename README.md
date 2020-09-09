@@ -26,9 +26,9 @@ My name is Brad Voris and I am a Security Professional who is passionate about s
 <BR /><BR />
 <BR /><BR />
 
-<A HREF="https://www.victimoftechnology.com" ALIGN=LEFT>Victim Of Technology<A />
-<A HREF="https://www.cyberforgesecurity.com" style="float: right;">Cyber Forge Security, Inc.<A />
- 
+<A HREF="https://www.victimoftechnology.com">Victim Of Technology<A />
+<BR /><BR />
+<A HREF="https://www.cyberforgesecurity.com">Cyber Forge Security, Inc.<A />
 <BR /><BR />
   
 ## Some of my Github Stats
