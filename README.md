@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 My name is Brad Voris and I am a Security Professional who is passionate about scripting.
 ## Connect with me at
-<TABLE style="border-collapse: collapse; border: none;>
+<TABLE style="border-collapse: collapse; border: none;">
 <TR>
 <TD ALIGN=LEFT>
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10%></a>
