@@ -20,7 +20,7 @@ My name is Brad Voris and I am a Security Professional who is passionate about s
 ## Visit me at
 www.linkedin.com/in/brad-voris
 <BR />
-<TABLE>
+<TABLE style="width:100%">
 <TR>
 <TD ALIGN=LEFT>
 <A HREF="https://www.victimoftechnology.com">Victim Of Technology<A />
