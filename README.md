@@ -22,6 +22,16 @@ www.VictimOfTechnology.com
 <BR />
 www.linkedin.com/in/brad-voris
 <BR />
+<TABLE>
+<TR>
+<TD>
+<A HREF="https://www.victimoftechnology.com">Victim Of Technology<A />
+<TD />
+<TD>
+<A HREF="https://www.cyberforgesecurity.com">Cyber Forge Security, Inc.<A />
+<TD />
+<TR />
+<TABLE />
 <CENTER>
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10%>Follow @HMInfoSecViking</a>
 <CENTER />
