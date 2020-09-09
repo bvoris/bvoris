@@ -23,14 +23,12 @@ My name is Brad Voris and I am a Security Professional who is passionate about s
 
 <a href="https://www.linkedin.com/in/brad-voris" target="_blank"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/linkedin.png" WIDTH=10% HEIGHT=4% ALIGN=RIGHT></a>
 
-<BR />
+<BR /><BR />
 
 <A HREF="https://www.victimoftechnology.com" ALIGN=LEFT>Victim Of Technology<A />
-
 <A HREF="https://www.cyberforgesecurity.com" ALIGN=RIGHT>Cyber Forge Security, Inc.<A />
-
-<TABLE />
  
+<BR /><BR />
   
 ## Some of my Github Stats
 ![BVoris github stats](https://github-readme-stats.vercel.app/api?username=bvoris&show_icons=true)
