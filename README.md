@@ -19,8 +19,16 @@ Here are some ideas to get you started:
 My name is Brad Voris and I am a Security Professional who is passionate about scripting.
 ## Connect with me at
 
-<a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% target="_blank"></a>
-<a href="https://www.linkedin.com/in/brad-voris" target="_blank"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/linkedin.png" WIDTH=10% HEIGHT=10% POSITION=ABSOLUTE RIGHT=0px></a>
+<div class="row">
+  <div class="column">
+    <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% target="_blank"></a>
+  </div>
+  <div class="column">
+  <a href="https://www.linkedin.com/in/brad-voris" target="_blank"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/linkedin.png" WIDTH=10% HEIGHT=10% POSITION=ABSOLUTE RIGHT=0px></a>
+  </div>
+</div>
+
+
 <BR />
 <TABLE>
 <TR>
