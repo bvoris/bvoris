@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 -->
 My name is Brad Voris and I am a Security Professional who is passionate about scripting.
 ## Visit me at
-www.VictimOfTechnology.com
-<BR />
 www.linkedin.com/in/brad-voris
 <BR />
 <TABLE>
@@ -33,6 +31,7 @@ www.linkedin.com/in/brad-voris
 <TR />
 <TABLE />
 <CENTER>
+  
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10%>Follow @HMInfoSecViking</a>
 <CENTER />
 <BR />
