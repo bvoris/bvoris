@@ -26,6 +26,7 @@ www.linkedin.com/in/brad-voris
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10%>Follow @HMInfoSecViking</a>
 <CENTER />
 <BR />
+  
 ## Some of my Github Stats
 ![BVoris github stats](https://github-readme-stats.vercel.app/api?username=bvoris&show_icons=true)
 
