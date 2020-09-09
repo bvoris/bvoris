@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Brad Voris and I am a Security Professional who is passionate about scripting.
-## Visit me at
-
+## Connect with me at
+<a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% target="_blank"></a>
+<a href="www.linkedin.com/in/brad-voris" target="_blank"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/linkedin.png" WIDTH=10% HEIGHT=10%></a>
 <BR />
-<TABLE style="width:100%">
+<TABLE>
 <TR>
 <TD ALIGN=LEFT>
 <A HREF="https://www.victimoftechnology.com">Victim Of Technology<A />
@@ -31,12 +32,6 @@ My name is Brad Voris and I am a Security Professional who is passionate about s
 <TR />
 <TABLE />
  
- Follow and Connect with me
- <BR />
-
-<a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% target="_blank"></a>
-<a href="www.linkedin.com/in/brad-voris" target="_blank"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/linkedin.png" WIDTH=10% HEIGHT=10%></a>
-<BR />
   
 ## Some of my Github Stats
 ![BVoris github stats](https://github-readme-stats.vercel.app/api?username=bvoris&show_icons=true)
