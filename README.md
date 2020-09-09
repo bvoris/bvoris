@@ -23,10 +23,10 @@ My name is Brad Voris and I am a Security Professional who is passionate about s
 <BR />
 <TABLE>
 <TR>
-<TD ALIGN=LEFT>
+<TD WIDTH=50% ALIGN=LEFT>
 <A HREF="https://www.victimoftechnology.com">Victim Of Technology<A />
 <TD />
-<TD ALIGN=RIGHT>
+<TD WIDTH=50% ALIGN=RIGHT>
 <A HREF="https://www.cyberforgesecurity.com">Cyber Forge Security, Inc.<A />
 <TD />
 <TR />
