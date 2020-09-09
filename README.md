@@ -1,7 +1,5 @@
 <img alt="nice hacker logo" src="https://media-exp1.licdn.com/dms/image/C4E16AQHYD1PpCA_XNw/profile-displaybackgroundimage-shrink_350_1400/0?e=1602115200&v=beta&t=3LNC5kt0g7hq6m4mHM0JdxmYGilshQ9RBghOIEC9RsU" align="center" target="_blank" />
-<CENTER>
-<a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10%>Follow @HMInfoSecViking</a>
-<CENTER />
+
 ### Hi there 👋
 
 <!--
@@ -24,7 +22,10 @@ www.VictimOfTechnology.com
 <BR />
 www.linkedin.com/in/brad-voris
 <BR />
-  
+<CENTER>
+<a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10%>Follow @HMInfoSecViking</a>
+<CENTER />
+<BR />
 ## Some of my Github Stats
 ![BVoris github stats](https://github-readme-stats.vercel.app/api?username=bvoris&show_icons=true)
 
