@@ -18,18 +18,13 @@ Here are some ideas to get you started:
 -->
 My name is Brad Voris and I am a Security Professional who is passionate about scripting.
 ## Connect with me at
-<TABLE style="border-collapse: collapse; border: none;">
-<TR>
-<TD ALIGN=LEFT>
-<a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10%></a>
-<TD />
-<TD ALIGN=RIGHT>
-<a href="https://www.linkedin.com/in/brad-voris" target="_blank"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/linkedin.png" WIDTH=10% HEIGHT=4%></a>
-<TD />
-<TR/>
-<TABLE/>
+
+<a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% ALIGN=LEFT></a>
+
+<a href="https://www.linkedin.com/in/brad-voris" target="_blank"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/linkedin.png" WIDTH=10% HEIGHT=4% ALIGN=RIGHT></a>
+
 <BR />
-<TABLE  BORDER=0>
+<TABLE>
 <TR>
 <TD WIDTH=50% ALIGN=LEFT>
 <A HREF="https://www.victimoftechnology.com">Victim Of Technology<A />
