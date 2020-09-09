@@ -18,10 +18,16 @@ Here are some ideas to get you started:
 -->
 My name is Brad Voris and I am a Security Professional who is passionate about scripting.
 ## Connect with me at
-
+<TABLE>
+<TR>
+ <TD>
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% target="_blank"></a>
+ <TD />
+ <TD>
 <a href="https://www.linkedin.com/in/brad-voris" target="_blank"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/linkedin.png" WIDTH=10% HEIGHT=10%></a>
-
+ <TD />
+<TR/>
+<TABLE/>
 <BR />
 <TABLE>
 <TR>
