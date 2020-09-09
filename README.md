@@ -22,10 +22,10 @@ www.linkedin.com/in/brad-voris
 <BR />
 <TABLE>
 <TR>
-<TD>
+<TD ALIGN=LEFT>
 <A HREF="https://www.victimoftechnology.com">Victim Of Technology<A />
 <TD />
-<TD>
+<TD ALIGN=RIGHT>
 <A HREF="https://www.cyberforgesecurity.com">Cyber Forge Security, Inc.<A />
 <TD />
 <TR />
