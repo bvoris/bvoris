@@ -84,6 +84,9 @@ https://github.com/bvoris/PoShExportADOUStructure
 <BR /><BR />
 PSBulkOUImport - PowerShell Bulk Organizational Unit Import into Active Directory Domain Services (ADDS)<BR />
 https://github.com/bvoris/PSBulkOUImport
+<BR /><BR />
+ActiveDirectoryReports - PowerShell Active Directory Report Web Application<BR />
+https://github.com/bvoris/ActiveDirectoryReports  
 <BR /><BR /><BR />
 
 Domain Naming Service (DNS) Scripts and Applications<B/><BR /><B>
@@ -120,4 +123,9 @@ https://github.com/bvoris/LANMonkey
 <BR /><BR />
 SysInfo - PowerShell Script that generates an HTML System Information report<BR />
 https://github.com/bvoris/SysInfo
-<BR /><BR />
+<BR /><BR /><BR />
+
+<B>Linux Scripts and Applications<B /><BR />
+ LinuxScriptRepo - Generic Linux shell scripts, config files and penetration testing application scripts<BR />
+ https://github.com/bvoris/LinuxScriptRepo
+ <BR /><BR /><BR />
