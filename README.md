@@ -75,7 +75,7 @@ ActiveDirectoryReports - PowerShell Active Directory Report Web Application<BR /
 https://github.com/bvoris/ActiveDirectoryReports  
 <BR /><BR /><BR />
 
-Domain Naming Service (DNS) Scripts and Applications<B/><BR /><B>
+Domain Naming Service (DNS) Scripts and Applications<B/><BR />
 PoShDNSHealthReport - PowerShell Script to generate an HTML DNS Health Report<BR />
 https://github.com/bvoris/PoShDNSHealthReport
 <BR /><BR />  
