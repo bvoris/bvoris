@@ -42,6 +42,9 @@ https://github.com/bvoris/RedTeamRecon
 PoShWebserverSecurityReport - An advanced PowerShell report that uses C# to test and validate webserver configuration settings.<BR />
 https://github.com/bvoris/PoShWebserverSecurityReport
 <BR /><BR />
+RSSFeeds - RSS Security Feeds OPML file<BR />
+https://github.com/bvoris/RSSFeeds
+<BR /><BR />
 AbuseIPDBChecker - PowerShell Script that queries an IP address from user input and exports the search results from AbuseIPDB.com
 https://github.com/bvoris/AbuseIPDBChecker
 <BR /><BR /><BR />
