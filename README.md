@@ -1,4 +1,4 @@
-<img alt="nice hacker logo" src="https://media-exp1.licdn.com/dms/image/C4E16AQHYD1PpCA_XNw/profile-displaybackgroundimage-shrink_350_1400/0?e=1602115200&v=beta&t=3LNC5kt0g7hq6m4mHM0JdxmYGilshQ9RBghOIEC9RsU" align="center" target="_blank" />
+<img src="https://github.com/bvoris/bvoris/blob/master/linkedinbanner.jpg" align="center" target="_blank" />
 
 # Hi there 👋
 My name is Brad Voris and I am a Security Professional who is passionate about technology and scripting. I've been in IT/IS/Cybersecurity since 1999. I have numerous certifications in systems, networking, and security.
