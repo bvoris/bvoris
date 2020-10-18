@@ -12,6 +12,8 @@ My name is Brad Voris and I am a Security Professional who is passionate about t
 <BR /><BR />
 <BR /><BR />
 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/bvoris?style=social">
+
 <A HREF="https://www.victimoftechnology.com">Victim Of Technology<A />
 <BR /><BR />
 <A HREF="https://www.cyberforgesecurity.com">Cyber Forge Security, Inc.<A />
