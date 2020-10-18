@@ -32,7 +32,7 @@ https://github.com/bvoris/PoShWebserverSecurityReport
 <BR /><BR />
 
 ## Project Catagorization 
-<B>Security Related Scripts and Applications<B /><BR />
+<B>Security Related Scripts and Applications</B><BR />
 SettingContent-MS-File-Execution - Proof of concept for exploitation of SettingContent-MS file format in PowerShell<BR />
 https://github.com/bvoris/SettingContent-MS-File-Execution
 <BR /><BR />
