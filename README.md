@@ -13,6 +13,7 @@ My name is Brad Voris and I am a Security Professional who is passionate about t
 <BR /><BR />
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/bvoris?style=social">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/bvoris?style=social">
 
 <A HREF="https://www.victimoftechnology.com">Victim Of Technology<A />
 <BR /><BR />
