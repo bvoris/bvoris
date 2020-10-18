@@ -103,7 +103,7 @@ PoSHExchangeHideUserGAL - PowerShell script to hide users from the Global Addres
 https://github.com/bvoris/PoSHExchangeHideUserGAL
 <BR /><BR /><BR />
   
-<B>Misc Scripts and Applications<B /><BR />
+<B>Misc Scripts and Applications</B><BR />
 NoSleepTillBrooklyn - PowerShell script that keeps your screensaver / screen lock from running.<BR />
 https://github.com/bvoris/NoSleepTillBrooklyn
 <BR /><BR />
