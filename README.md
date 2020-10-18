@@ -52,7 +52,7 @@ AbuseIPDBChecker - PowerShell Script that queries an IP address from user input 
 https://github.com/bvoris/AbuseIPDBChecker
 <BR /><BR /><BR />
 
-<B>Active Directory Domain Services (ADDS) Scripts and Applications<B /><BR />
+<B>Active Directory Domain Services (ADDS) Scripts and Applications</B><BR />
 PSUserSecurityReport - Export all users from ADDS to a CSV file for auditing.<BR />
 https://github.com/bvoris/PSUserSecurityReport
 <BR /><BR />
@@ -81,7 +81,7 @@ ActiveDirectoryReports - PowerShell Active Directory Report Web Application<BR /
 https://github.com/bvoris/ActiveDirectoryReports  
 <BR /><BR /><BR />
 
-Domain Naming Service (DNS) Scripts and Applications<B/><BR />
+<B>Domain Naming Service (DNS) Scripts and Applications</B><BR />
 PoShDNSHealthReport - PowerShell Script to generate an HTML DNS Health Report<BR />
 https://github.com/bvoris/PoShDNSHealthReport
 <BR /><BR />  
@@ -92,7 +92,7 @@ PoShDNSScavenging7days - PowerShell Script to set DNS Scavenging to 7 days<BR />
 https://github.com/bvoris/PoShDNSScavenging7days
 <BR /><BR /><BR />
 
-<B>MS Exchange Scripts and Applications<B /><BR />
+<B>MS Exchange Scripts and Applications</B><BR />
 Exchange-2010-Clear-Poison-messages-from-the-queue - PowerShell script that clears messages stuck in the messaging queue<BR />
 https://github.com/bvoris/Exchange-2010-Clear-Poison-messages-from-the-queue
 <BR /><BR />
@@ -117,7 +117,7 @@ SysInfo - PowerShell Script that generates an HTML System Information report<BR 
 https://github.com/bvoris/SysInfo
 <BR /><BR /><BR />
 
-<B>Linux Scripts and Applications<B /><BR />
+<B>Linux Scripts and Applications</B><BR />
  LinuxScriptRepo - Generic Linux shell scripts, config files and penetration testing application scripts<BR />
  https://github.com/bvoris/LinuxScriptRepo
  <BR /><BR /><BR />
