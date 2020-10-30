@@ -20,7 +20,7 @@ My name is Brad Voris and I am a Security Professional who is passionate about t
 <A HREF="https://www.cyberforgesecurity.com">Cyber Forge Security, Inc.<A />
 <BR /><BR />
   
-## Some of my Github Stats
+## Github Stats
 ![BVoris github stats](https://github-readme-stats.vercel.app/api?username=bvoris&show_icons=true)
 
 ## Large Github Projects that are active
