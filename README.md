@@ -121,6 +121,15 @@ https://github.com/bvoris/SysInfo
  LinuxScriptRepo - Generic Linux shell scripts, config files and penetration testing application scripts<BR />
  https://github.com/bvoris/LinuxScriptRepo
  <BR /><BR /><BR />
+ 
+ <B>Certification Training</B><BR />
+ CISSPTraining - My repo for CISSP Training Material<BR />
+ https://github.com/bvoris/CISSPTraining
+ <BR /><BR />
+ CCSKTraining - My repo for CCSK Training Material<BR />
+ https://github.com/bvoris/CCSKTraining
+ <BR /><BR /><BR />
+ 
 
 ## Connect with me at
 
