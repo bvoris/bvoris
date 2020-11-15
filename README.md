@@ -130,7 +130,11 @@ https://github.com/bvoris/SysInfo
  https://github.com/bvoris/CCSKTraining
  <BR /><BR /><BR />
  
-
+ <B>Collective Works</B><BR />
+ CollectiveWorks - Copy of articles, e-books and collaborations I have written<BR />
+ https://github.com/bvoris/CollectiveWorks
+ <BR /><BR /><BR />
+ 
 ## Connect with me at
 
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% ALIGN=LEFT></a>
