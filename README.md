@@ -122,12 +122,18 @@ https://github.com/bvoris/SysInfo
  https://github.com/bvoris/LinuxScriptRepo
  <BR /><BR /><BR />
  
- <B>Certification Training</B><BR />
+ <B>Certification, Training, & Career Resources</B><BR />
+ TrainingResources - My repo for Training & Career Planning Resources<BR />
+ https://github.com/bvoris/TrainingResources
+ <BR /><BR />
  CISSPTraining - My repo for CISSP Training Material<BR />
  https://github.com/bvoris/CISSPTraining
  <BR /><BR />
  CCSKTraining - My repo for CCSK Training Material<BR />
  https://github.com/bvoris/CCSKTraining
+ <BR /><BR />
+  ITILTraining - My repo for CCSK Training Material<BR />
+ https://github.com/bvoris/ITILTraining
  <BR /><BR /><BR />
  
  <B>Collective Works</B><BR />
