@@ -30,6 +30,9 @@ https://github.com/bvoris/PSNetMon
 PoSh Webserver Security Report<BR />
 https://github.com/bvoris/PoShWebserverSecurityReport
 <BR /><BR />
+Training Resources<BR />
+https://github.com/bvoris/TrainingResources/
+<BR /><BR />
 
 ## Project Catagorization 
 <B>Security Related Scripts and Applications</B><BR />
