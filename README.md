@@ -51,6 +51,9 @@ https://github.com/bvoris/PoShWebserverSecurityReport
 RSSFeeds - RSS Security Feeds OPML file<BR />
 https://github.com/bvoris/RSSFeeds
 <BR /><BR />
+RaspberryPiZeek - Raspberry Pi Zeek Network Security Monitor Deployment<BR />
+https://github.com/bvoris/RaspberryPiZeek
+<BR /><BR />
 AbuseIPDBChecker - PowerShell Script that queries an IP address from user input and exports the search results from AbuseIPDB.com
 https://github.com/bvoris/AbuseIPDBChecker
 <BR /><BR /><BR />
