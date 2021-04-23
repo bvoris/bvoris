@@ -24,7 +24,7 @@ My name is Brad Voris and I am a Security Professional who is passionate about t
 ![BVoris github stats](https://github-readme-stats.vercel.app/api?username=bvoris&show_icons=true)
 
 ## Menu
-|ICON|Content|
+|  Icon  |Content|
 | --------------- | --------------- |
 | <img src="https://github.com/bvoris/bvoris/blob/master/exploit.png" width=5% height=5% /> | Exploit |
 | <img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% /> | PowerShell |
