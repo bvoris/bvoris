@@ -28,6 +28,8 @@ My name is Brad Voris and I am a Security Professional who is passionate about t
 | --- | --- |
 | <img src="https://github.com/bvoris/bvoris/blob/master/skull.png" /> | Exploit |
 | <img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" /> | PowerShell |
+| <img src="https://github.com/bvoris/bvoris/blob/master/rss.png" /> | RSS |
+
 ## Large Github Projects that are active
 PSNetMon Network Resource Monitoring Utility<BR />
 https://github.com/bvoris/PSNetMon
