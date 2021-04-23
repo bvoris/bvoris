@@ -132,21 +132,21 @@ https://github.com/bvoris/SysInfo
  <BR /><BR /><BR />
  
  <B>Certification, Training, & Career Resources</B><BR />
- TrainingResources - My repo for Training & Career Planning Resources<BR />
+ <img src="https://github.com/bvoris/bvoris/blob/master/cert.png" width=3% height=3% />TrainingResources - My repo for Training & Career Planning Resources<BR />
  https://github.com/bvoris/TrainingResources
  <BR /><BR />
- CISSPTraining - My repo for CISSP Training Material<BR />
+ <img src="https://github.com/bvoris/bvoris/blob/master/cert.png" width=3% height=3% />CISSPTraining - My repo for CISSP Training Material<BR />
  https://github.com/bvoris/CISSPTraining
  <BR /><BR />
- CCSKTraining - My repo for CCSK Training Material<BR />
+ <img src="https://github.com/bvoris/bvoris/blob/master/cert.png" width=3% height=3% />CCSKTraining - My repo for CCSK Training Material<BR />
  https://github.com/bvoris/CCSKTraining
  <BR /><BR />
-  ITILTraining - My repo for CCSK Training Material<BR />
+  <img src="https://github.com/bvoris/bvoris/blob/master/cert.png" width=3% height=3% />ITILTraining - My repo for CCSK Training Material<BR />
  https://github.com/bvoris/ITILTraining
  <BR /><BR /><BR />
  
  <B>Collective Works</B><BR />
- CollectiveWorks - Copy of articles, e-books and collaborations I have written<BR />
+ <img src="https://github.com/bvoris/bvoris/blob/master/book.png" width=3% height=3% />CollectiveWorks - Copy of articles, e-books and collaborations I have written<BR />
  https://github.com/bvoris/CollectiveWorks
  <BR /><BR /><BR />
  
