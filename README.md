@@ -42,7 +42,7 @@ https://github.com/bvoris/SettingContent-MS-File-Execution
 <img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />base64obfuscatinginpowershell - How to obfuscate processes and date in base64 from PowerShell<BR />
 https://github.com/bvoris/base64obfuscatinginpowershell
 <BR /><BR />
-RedTeamRecon - Red team utility to export sensitive configuration date of a domain and systems to a file.<BR />
+<img src="https://github.com/bvoris/bvoris/blob/master/batch.png" width=5% height=5% />RedTeamRecon - Red team utility to export sensitive configuration date of a domain and systems to a file.<BR />
 https://github.com/bvoris/RedTeamRecon
 <BR /><BR />
 <img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />PoShWebserverSecurityReport - An advanced PowerShell report that uses C# to test and validate webserver configuration settings.<BR />
@@ -119,7 +119,7 @@ https://github.com/bvoris/NoSleepTillBrooklyn
 <img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />PoShSpeechSynth - PowerShell Speech Synthesizer<BR />
 https://github.com/bvoris/PoShSpeechSynth
 <BR /><BR />
-LANMonkey - HyperText Application with some web based tools for networking<BR />
+<img src="https://github.com/bvoris/bvoris/blob/master/hta.png" width=5% height=5% />LANMonkey - HyperText Application with some web based tools for networking<BR />
 https://github.com/bvoris/LANMonkey
 <BR /><BR />
 <img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />SysInfo - PowerShell Script that generates an HTML System Information report<BR />
