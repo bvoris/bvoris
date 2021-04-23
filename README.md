@@ -26,7 +26,7 @@ My name is Brad Voris and I am a Security Professional who is passionate about t
 ## Menu
 | Icon  | Content |
 | --- | --- |
-| <img src="https://github.com/bvoris/bvoris/blob/master/skull.png" width=20% height=20%/> | Exploit |
+| <img src="https://github.com/bvoris/bvoris/blob/master/skull.png" /> | Exploit |
 | <img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" /> | PowerShell |
 ## Large Github Projects that are active
 PSNetMon Network Resource Monitoring Utility<BR />
@@ -41,7 +41,7 @@ https://github.com/bvoris/TrainingResources/
 
 ## Project Catagorization 
 <B>Security Related Scripts and Applications</B><BR />
-<img src="https://github.com/bvoris/bvoris/blob/master/exploit.png" width=5% height=5% />SettingContent-MS-File-Execution - Proof of concept for exploitation of SettingContent-MS file format in PowerShell<BR />
+<img src="https://github.com/bvoris/bvoris/blob/master/skull.png" width=5% height=5% />SettingContent-MS-File-Execution - Proof of concept for exploitation of SettingContent-MS file format in PowerShell<BR />
 https://github.com/bvoris/SettingContent-MS-File-Execution
 <BR /><BR />
 <img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />base64obfuscatinginpowershell - How to obfuscate processes and date in base64 from PowerShell<BR />
