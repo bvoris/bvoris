@@ -48,7 +48,7 @@ https://github.com/bvoris/RedTeamRecon
 <img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />PoShWebserverSecurityReport - An advanced PowerShell report that uses C# to test and validate webserver configuration settings.<BR />
 https://github.com/bvoris/PoShWebserverSecurityReport
 <BR /><BR />
-<img src="https://github.com/bvoris/bvoris/blob/master/rss.png" width=5% height=5% />RSSFeeds - RSS Security Feeds OPML file<BR />
+<img src="https://github.com/bvoris/bvoris/blob/master/rss.png" width=2% height=2% />RSSFeeds - RSS Security Feeds OPML file<BR />
 https://github.com/bvoris/RSSFeeds
 <BR /><BR />
 RaspberryPiZeek - Raspberry Pi Zeek Network Security Monitor Deployment<BR />
