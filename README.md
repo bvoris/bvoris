@@ -36,7 +36,7 @@ https://github.com/bvoris/TrainingResources/
 
 ## Project Catagorization 
 <B>Security Related Scripts and Applications</B><BR />
-<img src="https://github.com/bvoris/bvoris/blob/master/exploit.png" width=5% height=5% />SettingContent-MS-File-Execution - Proof of concept for exploitation of SettingContent-MS file format in PowerShell<BR />
+<img src="https://github.com/bvoris/bvoris/blob/master/exploit.png" width=5% height=5% />SettingContent-MS-File-Execution - Proof of concept for exploitation of SettingContent-MS file format in PowerShell<img src="https://github.com/bvoris/bvoris/blob/master/exploit.png" width=5% height=5% /><BR />
 https://github.com/bvoris/SettingContent-MS-File-Execution
 <BR /><BR />
 base64obfuscatinginpowershell - How to obfuscate processes and date in base64 from PowerShell<BR />
