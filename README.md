@@ -23,13 +23,6 @@ My name is Brad Voris and I am a Security Professional who is passionate about t
 ## Github Stats
 ![BVoris github stats](https://github-readme-stats.vercel.app/api?username=bvoris&show_icons=true)
 
-## Menu
-| Icon  | Content |
-| --- | --- |
-| <img src="https://github.com/bvoris/bvoris/blob/master/skull.png" /> | Exploit |
-| <img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" /> | PowerShell |
-| <img src="https://github.com/bvoris/bvoris/blob/master/rss.png" /> | RSS |
-
 ## Large Github Projects that are active
 PSNetMon Network Resource Monitoring Utility<BR />
 https://github.com/bvoris/PSNetMon
@@ -55,7 +48,7 @@ https://github.com/bvoris/RedTeamRecon
 <img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />PoShWebserverSecurityReport - An advanced PowerShell report that uses C# to test and validate webserver configuration settings.<BR />
 https://github.com/bvoris/PoShWebserverSecurityReport
 <BR /><BR />
-RSSFeeds - RSS Security Feeds OPML file<BR />
+<img src="https://github.com/bvoris/bvoris/blob/master/rss.png" width=5% height=5% />RSSFeeds - RSS Security Feeds OPML file<BR />
 https://github.com/bvoris/RSSFeeds
 <BR /><BR />
 RaspberryPiZeek - Raspberry Pi Zeek Network Security Monitor Deployment<BR />
