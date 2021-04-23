@@ -36,10 +36,10 @@ https://github.com/bvoris/TrainingResources/
 
 ## Project Catagorization 
 <B>Security Related Scripts and Applications</B><BR />
-<img src="https://github.com/bvoris/bvoris/blob/master/exploit.png" width=5% height=5% />SettingContent-MS-File-Execution - Proof of concept for exploitation of SettingContent-MS file format in PowerShell<img src="https://github.com/bvoris/bvoris/blob/master/exploit.png" width=5% height=5% /><BR />
+<img src="https://github.com/bvoris/bvoris/blob/master/exploit.png" width=5% height=5% />SettingContent-MS-File-Execution - Proof of concept for exploitation of SettingContent-MS file format in PowerShell<BR />
 https://github.com/bvoris/SettingContent-MS-File-Execution
 <BR /><BR />
-base64obfuscatinginpowershell - How to obfuscate processes and date in base64 from PowerShell<BR />
+base64obfuscatinginpowershel<img src="https://github.com/bvoris/bvoris/blob/master/posh.png" width=5% height=5% />l - How to obfuscate processes and date in base64 from PowerShell<BR />
 https://github.com/bvoris/base64obfuscatinginpowershell
 <BR /><BR />
 RedTeamRecon - Red team utility to export sensitive configuration date of a domain and systems to a file.<BR />
