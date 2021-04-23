@@ -110,6 +110,9 @@ https://github.com/bvoris/PoSHExchangeHideUserGAL
 <BR /><BR /><BR />
   
 <B>Misc Scripts and Applications</B><BR />
+CurrentWeatherConditions - PowerShell Script that scrapes Weather.com to get current weather conditions.<BR />
+https://github.com/bvoris/currentweatherconditions
+<BR /><BR />
 NoSleepTillBrooklyn - PowerShell script that keeps your screensaver / screen lock from running.<BR />
 https://github.com/bvoris/NoSleepTillBrooklyn
 <BR /><BR />
