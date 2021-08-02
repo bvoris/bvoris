@@ -1,4 +1,4 @@
-<img src="https://github.com/bvoris/bvoris/blob/master/banner.jpg" align="center" target="_blank" />
+<img src="https://github.com/bvoris/bvoris/blob/master/ghbanner.jpg" align="center" target="_blank" />
 
 # Hi there 👋
 My name is Brad Voris and I am a Security Professional who is passionate about technology and scripting. I've been in IT/IS/Cybersecurity since 1999. I have numerous certifications in systems, networking, and security.
