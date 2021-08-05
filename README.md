@@ -18,11 +18,8 @@ My name is Brad Voris and I am a Security Professional who is passionate about t
 <BR /><BR />
 
   
-## Github Stats
-![BVoris github stats](https://github-readme-stats.vercel.app/api?username=bvoris&theme=algolia&&show_icons=true)
-  
- ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvoris&layout=compact)
+## Github Stats & Most used Languages
+![BVoris github stats](https://github-readme-stats.vercel.app/api?username=bvoris&theme=algolia&&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvoris&layout=compact)
   
 ## Large Github Projects that are active
 PSNetMon Network Resource Monitoring Utility<BR />
