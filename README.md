@@ -7,7 +7,7 @@ My name is Brad Voris and I am a Security Professional who is passionate about t
 
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/HMInfoSecViking?style=social">
 
-<a href="https://www.linkedin.com/in/brad-voris" target="_blank"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/linkedin.png" WIDTH=10% HEIGHT=4% ALIGN=RIGHT></a>
+<a href="https://www.linkedin.com/in/brad-voris" target="_blank"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/linkedin.png" WIDTH=5% HEIGHT=5% ALIGN=left></a>
 
 <BR /><BR />
 <BR /><BR />
