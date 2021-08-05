@@ -25,7 +25,7 @@ My name is Brad Voris and I am a Security Professional who is passionate about t
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvoris&layout=compact)
   
  ## Time stats
-![BVoris' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+![BVoris' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bvoris&layout=compact)
 
 
 ## Large Github Projects that are active
