@@ -5,10 +5,8 @@ My name is Brad Voris and I am a Security Professional who is passionate about t
 
 ## Connect with me at
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/HMInfoSecViking?style=social">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/HMInfoSecViking?style=social"><img alt="GitHub followers" src="https://img.shields.io/github/followers/bvoris?style=social"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/bvoris?style=social">
 <a href="https://www.linkedin.com/in/brad-voris" target="_blank"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/linkedin.png" WIDTH=5% HEIGHT=5% ALIGN=left></a><BR />
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/bvoris?style=social">
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/bvoris?style=social">
 
 <A HREF="https://www.victimoftechnology.com">Victim Of Technology<A />
 <BR /><BR />
