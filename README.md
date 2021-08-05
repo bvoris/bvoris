@@ -23,6 +23,10 @@ My name is Brad Voris and I am a Security Professional who is passionate about t
   
  ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvoris&layout=compact)
+  
+ ## Time stats
+![BVoris' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Large Github Projects that are active
 PSNetMon Network Resource Monitoring Utility<BR />
