@@ -88,10 +88,10 @@ https://github.com/bvoris/ActiveDirectoryReports
 <img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />PoShDNSHealthReport - PowerShell Script to generate an HTML DNS Health Report<BR />
 https://github.com/bvoris/PoShDNSHealthReport
 <BR /><BR />  
-<img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />PoShDNSScavenging1day - PowerShell Script to set DNS Scavenging to 1 day<BR />  
+<img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />PoShDNSScavenging1day - PowerShell Script to set DNS Scavenging to 1 day<BR />
 https://github.com/bvoris/PoShDNSScavenging1day
 <BR /><BR />
-<img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />PoShDNSScavenging7days - PowerShell Script to set DNS Scavenging to 7 days<BR />  
+<img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />PoShDNSScavenging7days - PowerShell Script to set DNS Scavenging to 7 days<BR />
 https://github.com/bvoris/PoShDNSScavenging7days
 <BR /><BR /><BR />
 
