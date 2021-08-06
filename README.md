@@ -13,8 +13,6 @@ My name is Brad Voris and I am a Security Professional who is passionate about t
 
 <A HREF="https://www.victimoftechnology.com">Victim Of Technology<A />
 <BR /><BR />
-<A HREF="https://www.cyberforgesecurity.com">Cyber Forge Security, Inc.<A />
-<BR /><BR />
 
   
 ## Github Stats & Most used Languages
