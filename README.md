@@ -18,7 +18,7 @@ My name is Brad Voris and I am a Security Professional who is passionate about t
 ![BVoris github stats](https://github-readme-stats.vercel.app/api?username=bvoris&theme=algolia&&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvoris&layout=compact)
   
 ## Large Github Projects that are active
-PSNetMon Network Resource Monitoring Utility<BR />
+PSNetMon Network Resource Monitoring Utility for Windows<BR />
 https://github.com/bvoris/PSNetMon
 <BR /><BR />
 PoSh Webserver Security Report<BR />
@@ -124,6 +124,9 @@ https://github.com/bvoris/SysInfo
  <img src="https://github.com/bvoris/bvoris/blob/master/bashg.png" width=3% height=3% />LinuxScriptRepo - Generic Linux shell scripts, config files and penetration testing application scripts<BR />
  https://github.com/bvoris/LinuxScriptRepo
   <BR /><BR />
+  <img src="https://github.com/bvoris/bvoris/blob/master/bashg.png" width=3% height=3% />PSNetMon Linux  - PSNetMon Network Resource Monitoring Utility for Linux (conversion)<BR />
+ https://github.com/bvoris/PSNetMonLinux
+   <BR /><BR />
  <img src="https://github.com/bvoris/bvoris/blob/master/bashg.png" width=3% height=3% />Sunfounder NAS Kit Fix - walkthrough for NAS Kit hat installation<BR /> 
  https://github.com/bvoris/SunFounderNASKitFix
  <BR /><BR /><BR />
