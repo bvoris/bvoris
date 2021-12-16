@@ -146,10 +146,15 @@ https://github.com/bvoris/SysInfo
  <BR /><BR /><BR />
  
  <B>Collective Works</B><BR />
- <img src="https://github.com/bvoris/bvoris/blob/master/book.png" width=3% height=3% />CollectiveWorks - Copy of articles, e-books and collaborations I have written<BR />
+ <img src="https://github.com/bvoris/bvoris/blob/master/book.png" width=3% height=3% />Collective Works - Copy of articles, e-books and collaborations I have written<BR />
  https://github.com/bvoris/CollectiveWorks
  <BR /><BR /><BR />
  
+ <B>Commodore 64</B><BR />
+ <IMG SRC="https://github.com/bvoris/Commodore64/blob/main/clogo.png" WIDTH=3% HEIGHT=3% ALIGN=CENTER>Commodore 64 - My Commodore 64 Work<BR />
+ https://github.com/bvoris/Commodore64
+ <BR /><BR /><BR /> 
+  
 ## Connect with me at
 
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% ALIGN=LEFT></a>
