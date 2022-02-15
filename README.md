@@ -33,6 +33,9 @@ https://github.com/bvoris/TrainingResources/
 <img src="https://github.com/bvoris/bvoris/blob/master/skull.png" width=5% height=5% />SettingContent-MS-File-Execution - Proof of concept for exploitation of SettingContent-MS file format in PowerShell<BR />
 https://github.com/bvoris/SettingContent-MS-File-Execution
 <BR /><BR />
+<img src="https://github.com/bvoris/bvoris/blob/master/skull.png" width=5% height=5% />HTAArbitraryCodeFramework - Hypertext Application Arbitrary Code Execution Framework is a proof of concept / framework for running malicious code in a "trusted" Hypertext application.<BR />
+https://github.com/bvoris/HTAArbitraryCodeFramework
+<BR /><BR />  
 <img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />base64obfuscatinginpowershell - How to obfuscate processes and date in base64 from PowerShell<BR />
 https://github.com/bvoris/base64obfuscatinginpowershell
 <BR /><BR />
