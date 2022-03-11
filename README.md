@@ -11,6 +11,7 @@ My name is Brad Voris and I am a Security Professional who is passionate about t
 <BR /><BR />
 
 <A HREF="https://www.victimoftechnology.com" align=center>Victim Of Technology<A />
+<A HREF="https://bvoris.github.io/" align=center>My Blog https://bvoris.github.io/ <A />
 <BR /><BR />
 
   
