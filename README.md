@@ -52,7 +52,7 @@ https://github.com/bvoris/RSSFeeds
 <img src="https://github.com/bvoris/bvoris/blob/master/bashg.png" width=3% height=3% />RaspberryPiZeek - Raspberry Pi Zeek Network Security Monitor Deployment<BR />
 https://github.com/bvoris/RaspberryPiZeek
 <BR /><BR />
-<img src="https://github.com/bvoris/bvoris/blob/master/bashg.png" width=3% height=3% />CMDEXERelativePathPoC - a Command Execution on relative path proof of concept<BR />
+<img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=3% height=3% />CMDEXERelativePathPoC - a Command Execution on relative path proof of concept<BR />
 https://github.com/bvoris/Cmdexerelativepathpoc 
 <BR /><BR />
 <img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />AbuseIPDBChecker - PowerShell Script that queries an IP address from user input and exports the search results from AbuseIPDB.com
