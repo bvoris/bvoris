@@ -18,7 +18,7 @@ My name is Brad Voris and I am a Security Professional who is passionate about t
 ## Github Stats & Most used Languages
 ![BVoris github stats](https://github-readme-stats.vercel.app/api?username=bvoris&theme=algolia&&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvoris&layout=compact)
   
-## Large Github Projects that are active
+## Github Projects that are currently in Development
 PSNetMon Network Resource Monitoring Utility for Windows<BR />
 https://github.com/bvoris/PSNetMon
 <BR /><BR />
@@ -28,7 +28,10 @@ https://github.com/bvoris/PoShWebserverSecurityReport
 Training Resources<BR />
 https://github.com/bvoris/TrainingResources/
 <BR /><BR />
-
+Python - OSINT Dossier Developer<BR />
+https://github.com/bvoris/osintprofdev
+<BR /><BR />
+  
 ## Project Catagorization 
 <B>Security Related Scripts and Applications</B><BR />
 <img src="https://github.com/bvoris/bvoris/blob/master/skull.png" width=5% height=5% />EXPLOIT - SettingContent-MS-File-Execution - Proof of concept for exploitation of SettingContent-MS file format in PowerShell<BR />
