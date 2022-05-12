@@ -31,12 +31,15 @@ https://github.com/bvoris/TrainingResources/
 
 ## Project Catagorization 
 <B>Security Related Scripts and Applications</B><BR />
-<img src="https://github.com/bvoris/bvoris/blob/master/skull.png" width=5% height=5% />SettingContent-MS-File-Execution - Proof of concept for exploitation of SettingContent-MS file format in PowerShell<BR />
+<img src="https://github.com/bvoris/bvoris/blob/master/skull.png" width=5% height=5% />EXPLOIT - SettingContent-MS-File-Execution - Proof of concept for exploitation of SettingContent-MS file format in PowerShell<BR />
 https://github.com/bvoris/SettingContent-MS-File-Execution
 <BR /><BR />
-<img src="https://github.com/bvoris/bvoris/blob/master/skull.png" width=5% height=5% />HTAArbitraryCodeFramework - Hypertext Application Arbitrary Code Execution Framework is a proof of concept / framework for running malicious code in a "trusted" Hypertext application.<BR />
+<img src="https://github.com/bvoris/bvoris/blob/master/skull.png" width=5% height=5% />EXPLOIT - HTAArbitraryCodeFramework - Hypertext Application Arbitrary Code Execution Framework is a proof of concept / framework for running malicious code in a "trusted" Hypertext application.<BR />
 https://github.com/bvoris/HTAArbitraryCodeFramework
 <BR /><BR />  
+<img src="https://github.com/bvoris/bvoris/blob/master/skull.png" width=3% height=3% />EXPLOIT - CMDEXERelativePathPoC - a Command Execution on relative path proof of concept<BR />
+https://github.com/bvoris/Cmdexerelativepathpoc 
+<BR /><BR />
 <img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />base64obfuscatinginpowershell - How to obfuscate processes and date in base64 from PowerShell<BR />
 https://github.com/bvoris/base64obfuscatinginpowershell
 <BR /><BR />
@@ -51,9 +54,6 @@ https://github.com/bvoris/RSSFeeds
 <BR /><BR />
 <img src="https://github.com/bvoris/bvoris/blob/master/bashg.png" width=3% height=3% />RaspberryPiZeek - Raspberry Pi Zeek Network Security Monitor Deployment<BR />
 https://github.com/bvoris/RaspberryPiZeek
-<BR /><BR />
-<img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=3% height=3% />CMDEXERelativePathPoC - a Command Execution on relative path proof of concept<BR />
-https://github.com/bvoris/Cmdexerelativepathpoc 
 <BR /><BR />
 <img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />AbuseIPDBChecker - PowerShell Script that queries an IP address from user input and exports the search results from AbuseIPDB.com
 https://github.com/bvoris/AbuseIPDBChecker
