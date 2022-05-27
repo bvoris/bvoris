@@ -46,7 +46,7 @@ https://github.com/bvoris/Cmdexerelativepathpoc
 <img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />base64obfuscatinginpowershell - How to obfuscate processes and date in base64 from PowerShell<BR />
 https://github.com/bvoris/base64obfuscatinginpowershell
 <BR /><BR />
-<img src="https://github.com/bvoris/bvoris/blob/master/batch.png" width=5% height=5% />RedTeamRecon - Red team utility to export sensitive configuration date of a domain and systems to a file.<BR />
+<img src="https://github.com/bvoris/bvoris/blob/master/batch.png" width=5% height=5% />RedTeamRecon - Red team utility to export sensitive configuration data of a domain and systems to a file.<BR />
 https://github.com/bvoris/RedTeamRecon
 <BR /><BR />
 <img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />PoShWebserverSecurityReport - An advanced PowerShell report that uses C# to test and validate webserver configuration settings.<BR />
