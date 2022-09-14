@@ -29,7 +29,7 @@ https://github.com/bvoris/PoShWebserverSecurityReport
 Training Resources<BR />
 https://github.com/bvoris/TrainingResources/
 <BR /><BR />
-Python - OSINT Dossier Developer<BR />
+Python - OSINTProfiler - Open Source Intelligence Profiler develops a profile on a target (CURRENTLY IN DEVELOPMENT)<BR />
 https://github.com/bvoris/osintprofdev
 <BR /><BR />
   
