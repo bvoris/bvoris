@@ -1,7 +1,7 @@
 <img src="https://github.com/bvoris/bvoris/blob/master/ghbanner.jpg" align="center" target="_blank" />
 
 # Hi there 👋
-My name is Brad Voris and I am a Security Professional who is passionate about technology and scripting. I've been in IT/IS/Cybersecurity since 1999. I have numerous certifications in systems, networking, and security.<BR />
+My name is Brad Voris and I am a Security Professional who is passionate about technology and scripting. I've been in IT/IS/Cybersecurity since 1999. I have numerous certifications in systems, networking, and security.<BR /><BR />
 I am starting to shift my focus away from PowerShell scripting to Python development. I will still support my larger PowerShell projects but newer projects will be in Python.
 
 ## Connect with me at
