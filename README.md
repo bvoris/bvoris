@@ -155,9 +155,6 @@ https://github.com/bvoris/SysInfo
  <img src="https://github.com/bvoris/bvoris/blob/master/cert.png" width=3% height=3% />MSSC-900 - My repo for MS SC-900 Training Material<BR />
  https://github.com/bvoris/MSSC-900
  <BR /><BR />
- <img src="https://github.com/bvoris/bvoris/blob/master/cert.png" width=3% height=3% />SEC290 Python Class at WilmU<BR />
- https://github.com/bvoris/sec290pythonclass
- <BR /><BR />
  <img src="https://github.com/bvoris/bvoris/blob/master/cert.png" width=3% height=3% />ITILTraining - My repo for CCSK Training Material<BR />
  https://github.com/bvoris/ITILTraining
  <BR /><BR /><BR />
