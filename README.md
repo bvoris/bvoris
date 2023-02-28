@@ -23,9 +23,6 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 PSNetMon Network Resource Monitoring Utility for Windows<BR />
 https://github.com/bvoris/PSNetMon
 <BR /><BR />
-PoSh Webserver Security Report<BR />
-https://github.com/bvoris/PoShWebserverSecurityReport
-<BR /><BR />
 Training Resources<BR />
 https://github.com/bvoris/TrainingResources/
 <BR /><BR />
