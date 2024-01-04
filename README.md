@@ -20,10 +20,7 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% ALIGN=LEFT></a>
 <a href="https://www.linkedin.com/in/brad-voris" target="_blank"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/linkedin.png" WIDTH=10% HEIGHT=4% ALIGN=RIGHT></a>
-
-
-<BR /><BR />
-
+<BR /><BR /><BR />
 <A HREF="https://www.victimoftechnology.com" align=center>Victim Of Technology<A /><BR />
 <A HREF="https://bvoris.github.io/" align=center>My Blog https://bvoris.github.io/ <A />
 <BR /><BR />
