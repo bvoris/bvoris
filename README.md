@@ -37,7 +37,9 @@ Training Resources<BR />
 https://github.com/bvoris/TrainingResources/
 <BR /><BR />
 Python - OSINTProfiler - Open Source Intelligence Profiler develops a profile on a target (CURRENTLY IN DEVELOPMENT)<BR />
-https://github.com/bvoris/osintprofdev
+https://github.com/bvoris/osintprofdev><BR />
+Shout out to PythonHacker24 (Aditya Patil) for code correction and assistance.><BR />
+Check his repo out at: https://github.com/PythonHacker24/
 <BR /><BR />
   
 ## Project Catagorization 
