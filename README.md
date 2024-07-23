@@ -3,7 +3,7 @@
 # Hi there 👋
 Brad Voris has been working in Information Technology and Cybersecurity for over 24 years. He began his career in 1999 where he spent 15 years building a solid foundation in the IT field. In 2016, thanks to the suggestion of a colleague, Brad began studying to attain his CISSP Security Certification.<BR /><BR />
 
-After passing the exam and officially entering the Security field, Brad continued his upward trend through the acquisition of an array of certifications: CISSP, CISM, CCSP, CCSK, Network+, MCP, MTA, VCA-DCV, NSE1, NSE2, NSE3, ACE, 100W – OPSEC, Trustee, AZ900, SC900, and Licensed Private Investigator.<BR /><BR />
+After passing the exam and officially entering the Security field, Brad continued his upward trend through the acquisition of an array of certifications: CISSP, CISM, CCSP, CCSK, Network+, MCP, MTA, VCA-DCV, NSE1, NSE2, NSE3, ACE, 100W – OPSEC, Trustee, AZ900, SC900, and Licensed Private Investigator. Brad completed an Cybersecurity degree program with Wilmington University.<BR /><BR />
 
 Continued knowledge and high-level performance has led him to work with a list of enterprise organizations including United Airlines, Texas Children’s Hospital, and Walmart. <BR /><BR />
 
@@ -124,7 +124,7 @@ https://github.com/bvoris/PoSHExchangeHideUserGAL
 <BR /><BR /><BR />
   
 <B>Misc Scripts and Applications</B><BR />
-PSNetMon Network Resource Monitoring Utility for Windows<BR />
+<img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />PSNetMon Network Resource Monitoring Utility for Windows<BR />
 https://github.com/bvoris/PSNetMon
 <BR /><BR />
 <img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />CurrentWeatherConditions - PowerShell Script that scrapes Weather.com to get current weather conditions.<BR />
