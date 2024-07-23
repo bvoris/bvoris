@@ -30,9 +30,6 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 ![BVoris github stats](https://github-readme-stats.vercel.app/api?username=bvoris&theme=algolia&&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvoris&layout=compact)
   
 ## Github Projects that are currently in Development
-PSNetMon Network Resource Monitoring Utility for Windows<BR />
-https://github.com/bvoris/PSNetMon
-<BR /><BR />
 Training Resources<BR />
 https://github.com/bvoris/TrainingResources/
 <BR /><BR />
@@ -127,6 +124,9 @@ https://github.com/bvoris/PoSHExchangeHideUserGAL
 <BR /><BR /><BR />
   
 <B>Misc Scripts and Applications</B><BR />
+PSNetMon Network Resource Monitoring Utility for Windows<BR />
+https://github.com/bvoris/PSNetMon
+<BR /><BR />
 <img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />CurrentWeatherConditions - PowerShell Script that scrapes Weather.com to get current weather conditions.<BR />
 https://github.com/bvoris/currentweatherconditions
 <BR /><BR />
