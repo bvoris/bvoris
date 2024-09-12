@@ -39,7 +39,7 @@ Shout out to PythonHacker24 (Aditya Patil) for code correction and assistance.<B
 Check his repo out at: https://github.com/PythonHacker24/
 <BR /><BR />
 My HOU.SEC.CON 2024 Presentation on MITRE ATT&CK Framework Threat Modeling<BR />
-https://github.com/bvoris/houseccon2024presentation/tree/main<BR />
+https://github.com/bvoris/houseccon2024presentation/<BR />
 <BR /><BR />
 ## Project Catagorization 
 <B>Security Related Scripts and Applications</B><BR />
