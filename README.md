@@ -38,7 +38,9 @@ https://github.com/bvoris/osintprofdev<BR />
 Shout out to PythonHacker24 (Aditya Patil) for code correction and assistance.<BR />
 Check his repo out at: https://github.com/PythonHacker24/
 <BR /><BR />
-  
+My HOU.SEC.CON 2024 Presentation on MITRE ATT&CK Framework Threat Modeling<BR />
+https://github.com/bvoris/houseccon2024presentation/tree/main<BR />
+<BR /><BR />
 ## Project Catagorization 
 <B>Security Related Scripts and Applications</B><BR />
 <img src="https://github.com/bvoris/bvoris/blob/master/skull.png" width=5% height=5% />EXPLOIT - SettingContent-MS-File-Execution - Proof of concept for exploitation of SettingContent-MS file format in PowerShell<BR />
