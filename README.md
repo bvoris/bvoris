@@ -41,7 +41,7 @@ Check his repo out at: https://github.com/PythonHacker24/
 My HOU.SEC.CON 2024 Presentation on MITRE ATT&CK Framework Threat Modeling<BR />
 https://github.com/bvoris/houseccon2024presentation/<BR />
 <CENTER>
-<IMG="https://github.com/bvoris/houseccon2024presentation/raw/main/flyer.jpg">
+<IMG SRC="https://github.com/bvoris/houseccon2024presentation/raw/main/flyer.jpg">
 </CENTER>
 <BR /><BR />
 ## Project Catagorization 
