@@ -13,7 +13,7 @@ Brad’s accomplishments don’t end in the workplace though. He has co-authored
 
 Brad continues to work in IT and Cybersecurity while also sharing his knowledge and experience with others through a mentorship program where he gives guidance to up-and-comers seeking counsel in the field. <BR /><BR />
 
-Before his IT and Security journey, Brad served in the US Army. BR /><BR />
+Before his IT and Security journey, Brad served in the US Army. <BR /><BR />
 I am starting to shift my focus away from PowerShell scripting to Python development. I will still support my larger PowerShell projects but newer projects will be in Python.
 
 ## Connect with me at
