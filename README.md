@@ -61,7 +61,7 @@ https://github.com/bvoris/base64obfuscatinginpowershell
 <img src="https://github.com/bvoris/bvoris/blob/master/batch.png" width=5% height=5% />RedTeamRecon - Red team utility to export sensitive configuration data of a domain and systems to a file.<BR />
 https://github.com/bvoris/RedTeamRecon
 <BR /><BR />
-<img src="https://github.com/bvoris/bvoris/blob/master/python.png" width=5% height=5% />PythonWebserverSecurityReport - An advanced Python report that will test and validate webserver configuration settings.<BR />
+<img src="https://github.com/bvoris/bvoris/blob/master/pythonicon.png" width=5% height=5% />PythonWebserverSecurityReport - An advanced Python report that will test and validate webserver configuration settings.<BR />
 https://github.com/bvoris/PythonWebserverSecurityReport
 <BR /><BR />
 <img src="https://github.com/bvoris/bvoris/blob/master/powershell.png" width=5% height=5% />PoShWebserverSecurityReport - An advanced PowerShell report that uses C# to test and validate webserver configuration settings.<BR />
