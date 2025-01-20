@@ -184,6 +184,11 @@ https://github.com/bvoris/SysInfo
  <img src="https://github.com/bvoris/bvoris/blob/master/book.png" width=3% height=3% />Collective Works - Copy of articles, e-books and collaborations I have written<BR />
  https://github.com/bvoris/CollectiveWorks
  <BR /><BR /><BR />
+
+ <B>Public Speaking</B><BR />
+ <img src="https://github.com/bvoris/bvoris/blob/master/book.png" width=3% height=3% />Public Speaking - Events for which I've spoken at<BR />
+ https://github.com/bvoris/Publicspeaking
+ <BR /><BR /><BR />
  
  <B>Commodore 64</B><BR />
  <IMG SRC="https://github.com/bvoris/Commodore64/blob/main/clogo.png" WIDTH=3% HEIGHT=3% ALIGN=CENTER>Commodore 64 - My Commodore 64 Work<BR />
