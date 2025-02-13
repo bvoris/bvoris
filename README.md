@@ -40,6 +40,9 @@ https://github.com/bvoris/houseccon2024presentation/<BR />
 <IMG SRC="https://github.com/bvoris/houseccon2024presentation/raw/main/flyer.jpg">
 </CENTER>
 <BR /><BR />
+Developing a Threat Modeling Program<BR />
+https://github.com/bvoris/ThreatModelingProgram
+<BR /><BR />
 ## Project Catagorization 
 <B>Security Related Scripts and Applications</B><BR />
 <img src="https://github.com/bvoris/bvoris/blob/master/skull.png" width=5% height=5% />EXPLOIT - SettingContent-MS-File-Execution - Proof of concept for exploitation of SettingContent-MS file format in PowerShell<BR />
