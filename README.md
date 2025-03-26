@@ -205,5 +205,3 @@ https://github.com/bvoris/SysInfo
 
 <A HREF="https://www.victimoftechnology.com">Victim Of Technology<A />
 <BR /><BR />
-<A HREF="https://www.cyberforgesecurity.com">Cyber Forge Security, Inc.<A />
-<BR /><BR />
