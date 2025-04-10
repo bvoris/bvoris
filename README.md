@@ -173,6 +173,8 @@ https://github.com/bvoris/SysInfo
  https://github.com/bvoris/MSSC-900
  <BR /><BR />
  <img src="https://github.com/bvoris/bvoris/blob/master/cert.png" width=3% height=3% />Mitreattackthreatmodeling - MITRE ATT&CK Framework Threat Modeling<BR />  https://github.com/bvoris/mitreattackthreatmodeling<BR /><BR />
+ <img src="https://github.com/bvoris/bvoris/blob/master/cert.png" width=3% height=3% />Building a Threat Modeling Program<BR />  https://github.com/bvoris/mitreattackthreatmodeling<BR /><BR />
+ <img src="https://github.com/bvoris/bvoris/blob/master/cert.png" width=3% height=3% />Building an Information Security Program<BR />  [https://github.com/bvoris/mitreattackthreatmodeling](https://github.com/bvoris/InformationSecurityProgram)<BR /><BR />
  <img src="https://github.com/bvoris/bvoris/blob/master/cert.png" width=3% height=3% />ITILTraining - My repo for ITIL Training Material<BR />
  https://github.com/bvoris/ITILTraining
  <BR /><BR /><BR />
