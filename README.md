@@ -40,6 +40,9 @@ https://github.com/bvoris/houseccon2024presentation/<BR />
 <IMG SRC="https://github.com/bvoris/houseccon2024presentation/raw/main/flyer.jpg">
 </CENTER>
 <BR /><BR />
+My HOU.SEC.CON 2025 Presentation on Mentorship<BR />
+https://github.com/bvoris/houseccon2025presentation/<BR />
+<BR /><BR />
 Developing a Threat Modeling Program<BR />
 https://github.com/bvoris/ThreatModelingProgram
 <BR /><BR />
