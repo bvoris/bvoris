@@ -187,7 +187,7 @@ https://github.com/bvoris/SysInfo
  <BR /><BR /><BR />
 
  <B>Various Development Projects</B><BR />
- <img src="https://github.com/bvoris/bvoris/blob/master/book.png" width=3% height=3% />YT-DLP PoSh GUI - Frontend GUI for YT-DLP written and compiled in PowerShell for Windows<BR />
+ YT-DLP PoSh GUI - Frontend GUI for YT-DLP written and compiled in PowerShell for Windows<BR />
  https://github.com/bvoris/yt-dlp-posh-gui
  <BR /><BR /><BR />
  
