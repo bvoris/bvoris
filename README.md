@@ -184,8 +184,11 @@ https://github.com/bvoris/SysInfo
  <img src="https://github.com/bvoris/bvoris/blob/master/cert.png" width=3% height=3% />Security Control Capability List - A curated list developed to define security control capabilities, domains/subdomains, regulatory compliance requirements, and security framework alignment<BR /> https://github.com/bvoris/securitycontrolcapabilitieslist<BR /><BR />
  <img src="https://github.com/bvoris/bvoris/blob/master/cert.png" width=3% height=3% />Building a Threat Modeling Program<BR />  https://github.com/bvoris/mitreattackthreatmodeling<BR /><BR />
  <img src="https://github.com/bvoris/bvoris/blob/master/cert.png" width=3% height=3% />Building an Information Security Program<BR /> https://github.com/bvoris/InformationSecurityProgram<BR /><BR />
- <img src="https://github.com/bvoris/bvoris/blob/master/cert.png" width=3% height=3% />ITILTraining - My repo for ITIL Training Material<BR />
- https://github.com/bvoris/ITILTraining
+ <BR /><BR /><BR />
+
+ <B>Various Development Projects</B><BR />
+ <img src="https://github.com/bvoris/bvoris/blob/master/book.png" width=3% height=3% />YT-DLP PoSh GUI - Frontend GUI for YT-DLP written and compiled in PowerShell for Windows<BR />
+ https://github.com/bvoris/yt-dlp-posh-gui
  <BR /><BR /><BR />
  
  <B>Collective Works</B><BR />
