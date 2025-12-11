@@ -21,14 +21,7 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 <A HREF="https://bvoris.github.io/" align=center>My Blog https://bvoris.github.io/ <A />
 <BR /><BR />
 
-  
-## Github Stats & Most used Languages
-![BVoris github stats](https://github-readme-stats.vercel.app/api?username=bvoris&theme=algolia&&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvoris&layout=compact)
-  
 ## Github Projects that are currently in Development
-Training Resources<BR />
-https://github.com/bvoris/TrainingResources/
-<BR /><BR />
 Python - OSINTProfiler - Open Source Intelligence Profiler develops a profile on a target (CURRENTLY IN DEVELOPMENT)<BR />
 https://github.com/bvoris/osintprofdev<BR />
 Shout out to PythonHacker24 (Aditya Patil) for code correction and assistance.<BR />
