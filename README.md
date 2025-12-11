@@ -19,7 +19,7 @@ Before his IT and Security journey, Brad served in the US Army. <BR /><BR />
 I am starting to shift my focus away from PowerShell scripting to Python development. I will still support my larger PowerShell projects but newer projects will be in Python.
 
 ## Connect with me at
-<A HREF="https://www.victimoftechnology.com" align=center>Victim Of Technology<A /><BR />
+<A HREF="https://www.victimoftechnology.com" align=center>Victim Of Technology<A />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <A HREF="https://bvoris.github.io/" align=center>My Blog https://bvoris.github.io/ <A />
 <BR /><BR />
 
@@ -29,20 +29,19 @@ https://github.com/bvoris/osintprofdev<BR />
 Shout out to PythonHacker24 (Aditya Patil) for code correction and assistance.<BR />
 Check his repo out at: https://github.com/PythonHacker24/
 <BR /><BR />
+
 My HOU.SEC.CON 2024 Presentation on MITRE ATT&CK Framework Threat Modeling<BR />
 https://github.com/bvoris/houseccon2024presentation/<BR />
 <CENTER>
 <IMG SRC="https://github.com/bvoris/houseccon2024presentation/raw/main/flyer.jpg">
 </CENTER>
 <BR /><BR />
+
 My HOU.SEC.CON 2025 Presentation on Mentorship<BR />
 https://github.com/bvoris/houseccon2025presentation/<BR />
 <CENTER>
 <IMG SRC="https://github.com/bvoris/houseccon2025presentation/blob/main/Speaker%20Tiles_LinkedIn_BVoris.jpg?raw=true">
 </CENTER>
-<BR /><BR />
-Developing a Threat Modeling Program<BR />
-https://github.com/bvoris/ThreatModelingProgram
 <BR /><BR />
 
 ## CATAGORIES 
