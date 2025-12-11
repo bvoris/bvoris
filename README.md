@@ -78,5 +78,5 @@ https://github.com/bvoris/Certification-Training-Career-Resources
 <a href="https://www.linkedin.com/in/brad-voris" target="_blank"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/linkedin.png" WIDTH=10% HEIGHT=4% ALIGN=RIGHT></a>
 <BR /><BR />
 <BR /><BR />
-<A HREF="https://www.victimoftechnology.com">Victim Of Technology<A />
+<CENTER><A HREF="https://www.victimoftechnology.com">Victim Of Technology<A /></CENTER>
 <BR /><BR />
