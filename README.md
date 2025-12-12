@@ -51,26 +51,38 @@ https://github.com/bvoris/Public-Speaking-and-Collective-Works
 <BR /><BR />
 
 <B>Security Scripts and Applications</B><BR />
+<B>Description:</B> 
+<BR />
 https://github.com/bvoris/Security-Related-Scripts-and-Apps
 <BR /><BR />
 
 <B>Active Directory Domain Services (ADDS) Scripts and Apps</B><BR />
+<B>Description:</B> 
+<BR />
 https://github.com/bvoris/Active-Directory-Scripts-and-Apps
 <BR /><BR />
 
 <B>Domain Naming Service (DNS) Scripts and Apps</B><BR />
+<B>Description:</B> 
+<BR />
 https://github.com/bvoris/DNS-Scripts-and-Apps
 <BR /><BR />
 
 <B>MS Exchange Scripts and Apps</B><BR />
+<B>Description:</B> 
+<BR />
 https://github.com/bvoris/Exchange-Scripts-and-Apps
 <BR /><BR />
 
 <B>Various Scripts and Apps</B><BR />
+<B>Description:</B> 
+<BR />
 https://github.com/bvoris/Various-Scripts-and-Apps
 <BR /><BR />
 
 <B>Certification, Training, & Career Resources</B><BR />
+<B>Description:</B> 
+<BR />
 https://github.com/bvoris/Certification-Training-Career-Resources
 <BR /><BR />
 
