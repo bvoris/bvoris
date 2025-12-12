@@ -19,20 +19,12 @@ Before his IT and Security journey, Brad served in the US Army. <BR /><BR />
 I am starting to shift my focus away from PowerShell scripting to Python development. I will still support my larger PowerShell projects but newer projects will be in Python.
 <BR /><BR />
 
-<B>My Blog: <A HREF="https://bvoris.github.io/" align=center>https://bvoris.github.io/ <A /></B>
-<BR /><BR />
-
 ## My Public Presentations
 
-My HOU.SEC.CON 2024 Presentation on MITRE ATT&CK Framework Threat Modeling<BR />
-https://github.com/bvoris/houseccon2024presentation/<BR />
-<CENTER>
-<IMG SRC="https://github.com/bvoris/houseccon2024presentation/raw/main/flyer.jpg">
-</CENTER>
+[My HOU.SEC.CON 2024 Presentation on MITRE ATT&CK Framework Threat Modeling](https://github.com/bvoris/houseccon2024presentation/)<BR />
 <BR /><BR />
 
-My HOU.SEC.CON 2025 Presentation on Mentorship<BR />
-https://github.com/bvoris/houseccon2025presentation/<BR />
+[My HOU.SEC.CON 2025 Presentation on Mentorship](https://github.com/bvoris/houseccon2025presentation/)<BR />
 <CENTER>
 <IMG SRC="https://github.com/bvoris/houseccon2025presentation/blob/main/Speaker%20Tiles_LinkedIn_BVoris.jpg?raw=true">
 </CENTER>
