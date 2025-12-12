@@ -63,7 +63,8 @@ https://github.com/bvoris/houseccon2025presentation/<BR />
 * [Peer Review and Content Editor: Complete Guide to Security Operation Center Part 1](https://github.com/bvoris/CollectiveWorks/blob/main/Collaborative/Complete-Guide-to-Cyber-Security-Operation-Center_v6.2_FINAL-pages-1.pdf)
 * [Peer Review and Content Editor: Complete Guide to Security Operation Center Part 2](https://github.com/bvoris/CollectiveWorks/blob/main/Collaborative/Complete-Guide-to-Cyber-Security-Operation-Center_v6.2_FINAL-pages-2.pdf)
 * [Quotes and References: Cyber Warnings E-Magazine - How Windows Active Directory is the root cause of many logon security headaches](https://www.isdecisions.com/Resources/pdf/cyber-defense-magazine-ad-root-cause-problems-article.pdf)
-* [Top Cyber News Magazine - December 2022](https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Top%20Cyber%20News%20Magazine%20December%202022.pdf)
+* [Published Article: Top Cyber News Magazine - December 2022](https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Top%20Cyber%20News%20Magazine%20December%202022.pdf)
+* [Presentation: InfraGard April 16th 2025 - Cloud Security Presentation](https://github.com/bvoris/InfraGardPresentation)
 * [Presentation: HOU.SEC.CON 2024 - Threat Modeling with Mitre ATT&CK Framework by Brad Voris](https://github.com/bvoris/houseccon2024presentation/)
 * * [YouTube Presentation](https://www.youtube.com/watch?v=BhuFZ_4syVU)
 * [Presentation: HOU.SEC.CON 2025 - Mentorship When](https://github.com/bvoris/houseccon2025presentation/)
@@ -71,7 +72,7 @@ https://github.com/bvoris/houseccon2025presentation/<BR />
 * [Public Appearance: HOU.SEC.CON 2025 - CISO Series (Quick couple of seconds @about 98 seconds into it) "They don't test their plans..."](https://youtu.be/bVlqLHs9BaQ?si=NnLtVjdKvlI5v6Vm&t=98)
 * [Podcast: Breaking into Cybersecurity Leadership - with Host: Christophe Foulon - Brad Voris](https://www.youtube.com/watch?v=JdjavK-YUVY)
 * [Podcast: Cyber Warrior Studios - With Host: Derek Scheller Jr. - Defense in Depth and Secure Architecture](https://www.youtube.com/watch?v=417HVg2_a_I)
-* [Presentation: InfraGard April 16th 2025 - Cloud Security Presentation](https://github.com/bvoris/InfraGardPresentation)
+
 <BR />
 
 <B>Security Scripts and Applications</B><BR />
