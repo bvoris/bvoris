@@ -53,6 +53,14 @@ https://github.com/bvoris/Public-Speaking-and-Collective-Works
 <B>Security Scripts and Applications</B><BR />
 <B>Description:</B> 
 <BR />
+* PowerShell & Python Webserver Security Report
+* SettingContent-MS-File-Execution - Proof of concept for exploitation of SettingContent-MS file format in PowerShell
+* PowerShell LNK Exploit -  Embeddinbg PowerShell in an LNK file
+* PowerShell CMD Execution Relative Path PoC - a Command Execution on relative path proof of concept
+* PowerShell base64 Obfuscation - How to obfuscate processes and date in base64 from PowerShell
+* HTA Arbitrary Code Framework - Hypertext Application Arbitrary Code Execution Framework is a proof of concept / framework for running malicious code in a "trusted" Hypertext application.
+* Red Team Recon -  Red team utility to export sensitive configuration data of a domain and systems to a file.
+
 https://github.com/bvoris/Security-Related-Scripts-and-Apps
 <BR /><BR />
 
