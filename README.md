@@ -54,6 +54,7 @@ https://github.com/bvoris/Public-Speaking-and-Collective-Works
 <B>Description:</B>Security scripts, applications, and security guides.
 <BR />
 * PowerShell & Python Webserver Security Report - An advanced Python & PowerShell versions of a report that will test and validate webserver configuration settings.
+* Python - OSINTProfiler - Open Source Intelligence Profiler develops a profile on a target 
 * SettingContent-MS-File-Execution - Proof of concept for exploitation of SettingContent-MS file format in PowerShell
 * PowerShell LNK Exploit -  Embeddinbg PowerShell in an LNK file
 * PowerShell CMD Execution Relative Path PoC - a Command Execution on relative path proof of concept
