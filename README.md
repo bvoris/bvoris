@@ -36,41 +36,41 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 <BR />
 * [My Blog](https://bvoris.github.io/)
 * Publications
-** [Peerlyst Published Books: Intrusion Detection Guide - Chapter 10 Compliance](https://github.com/bvoris/CollectiveWorks/blob/main/Collaborative/Intrusion_Detection_Guide.pdf)
-** [Peerlyst Published Books: Essentials of Cybersecurity - Peerlyst (Chapter 8 Understanding Central Areas of Enterprise Defense](https://github.com/bvoris/CollectiveWorks/blob/main/Collaborative/Peerlyst_eBook_2_-_Essentials_of_Cybersecurity.pdf)
-** [Published Article: Top Cyber News Magazine - December 2022](https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Top%20Cyber%20News%20Magazine%20December%202022.pdf)
+* * [Peerlyst Published Books: Intrusion Detection Guide - Chapter 10 Compliance](https://github.com/bvoris/CollectiveWorks/blob/main/Collaborative/Intrusion_Detection_Guide.pdf)
+* * [Peerlyst Published Books: Essentials of Cybersecurity - Peerlyst (Chapter 8 Understanding Central Areas of Enterprise Defense](https://github.com/bvoris/CollectiveWorks/blob/main/Collaborative/Peerlyst_eBook_2_-_Essentials_of_Cybersecurity.pdf)
+* * [Published Article: Top Cyber News Magazine - December 2022](https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Top%20Cyber%20News%20Magazine%20December%202022.pdf)
 * Articles
-** [TechNet: Active Directory_ migrating from 2003 to 2012 R2 enterprise multi-site single forest domain - TechNet Articles - United States (English) - TechNet Wiki.pdf](https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Active%20Directory_%20migrating%20from%202003%20to%202012%20R2%20enterprise%20multi-site%20single%20forest%20domain%20-%20TechNet%20Articles%20-%20United%20States%20(English)%20-%20TechNet%20Wiki.pdf)
-** [Article: OT: The Dangers and Technical Security Challenges for the Internet Of Things](https://github.com/bvoris/CollectiveWorks/blob/main/Articles/IoT.docx.pdf)
-** [Article: Mental Health Resource for Technology and Security Professionals - Peerlyst](https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Mental%20Health%20Resource%20for%20Technology%20and%20Security%20Professionals.pdf)
-** [Article: SettingContent-MS File Execution Vulnerability Exploit - Peerlyst](https://github.com/bvoris/CollectiveWorks/blob/main/Articles/SettingContent-MS%20File%20Execution%20Vulnerability%20Exploit.pdf)
-** [Article: SettingContent-MS lets run PowerShell code and bypass the execution policy](https://github.com/bvoris/CollectiveWorks/blob/main/Articles/SettingContent-MS%20lets%20run%20PowerShell%20code%20and%20bypass%20the%20execution%20policy.pdf)
-** [Article: Social Engineering - Information Gathering via Social Media and other online sources](https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Social%20Engineering%20-%20Information%20Gathering%20via%20Social%20Media%20and%20other%20online%20sources.pdf)
-** [Article: Building Better Queries in Shodan.io For Better Reporting](https://www.linkedin.com/pulse/building-better-queries-shodanio-reporting-brad-voris/)
-** [Article: PowerShell Script Execution via Cmd.exe Relative Path PoC](https://www.linkedin.com/pulse/powershell-script-execution-via-cmdexe-relative-path-poc-brad-voris/)
-** [Article: Security RSS Feeds](https://www.linkedin.com/pulse/security-rss-feeds-brad-voris/)
-** [Article: If you don't take your own company's cyber security seriously, someone else will.](https://www.linkedin.com/pulse/you-dont-take-your-own-companys-cyber-security-seriously-brad-voris)
-** [Article: HTTP Headers for the Security Professional](https://www.linkedin.com/pulse/http-headers-security-professional-brad-voris/)
+* * [TechNet: Active Directory_ migrating from 2003 to 2012 R2 enterprise multi-site single forest domain - TechNet Articles - United States (English) - TechNet Wiki.pdf](https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Active%20Directory_%20migrating%20from%202003%20to%202012%20R2%20enterprise%20multi-site%20single%20forest%20domain%20-%20TechNet%20Articles%20-%20United%20States%20(English)%20-%20TechNet%20Wiki.pdf)
+* * [Article: OT: The Dangers and Technical Security Challenges for the Internet Of Things](https://github.com/bvoris/CollectiveWorks/blob/main/Articles/IoT.docx.pdf)
+* * [Article: Mental Health Resource for Technology and Security Professionals - Peerlyst](https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Mental%20Health%20Resource%20for%20Technology%20and%20Security%20Professionals.pdf)
+* * [Article: SettingContent-MS File Execution Vulnerability Exploit - Peerlyst](https://github.com/bvoris/CollectiveWorks/blob/main/Articles/SettingContent-MS%20File%20Execution%20Vulnerability%20Exploit.pdf)
+* * [Article: SettingContent-MS lets run PowerShell code and bypass the execution policy](https://github.com/bvoris/CollectiveWorks/blob/main/Articles/SettingContent-MS%20lets%20run%20PowerShell%20code%20and%20bypass%20the%20execution%20policy.pdf)
+* * [Article: Social Engineering - Information Gathering via Social Media and other online sources](https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Social%20Engineering%20-%20Information%20Gathering%20via%20Social%20Media%20and%20other%20online%20sources.pdf)
+* * [Article: Building Better Queries in Shodan.io For Better Reporting](https://www.linkedin.com/pulse/building-better-queries-shodanio-reporting-brad-voris/)
+* * [Article: PowerShell Script Execution via Cmd.exe Relative Path PoC](https://www.linkedin.com/pulse/powershell-script-execution-via-cmdexe-relative-path-poc-brad-voris/)
+* * [Article: Security RSS Feeds](https://www.linkedin.com/pulse/security-rss-feeds-brad-voris/)
+* * [Article: If you don't take your own company's cyber security seriously, someone else will.](https://www.linkedin.com/pulse/you-dont-take-your-own-companys-cyber-security-seriously-brad-voris)
+* * [Article: HTTP Headers for the Security Professional](https://www.linkedin.com/pulse/http-headers-security-professional-brad-voris/)
 * College Publications
-** [College Publication: Wilmington University: Strengthening National Security: Assessing the Adequacy of the U.S. Federal Government Efforts in Securing Public Infrastructure](https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Strengthening%20National%20Security%20-%20%20Assessing%20the%20Adequacy%20of%20the%20U.S.%20Federal%20Government%20Efforts%20in%20Securing%20Public%20Infrastructure%20By%20Brad%20Voris.pdf)
+* * [College Publication: Wilmington University: Strengthening National Security: Assessing the Adequacy of the U.S. Federal Government Efforts in Securing Public Infrastructure](https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Strengthening%20National%20Security%20-%20%20Assessing%20the%20Adequacy%20of%20the%20U.S.%20Federal%20Government%20Efforts%20in%20Securing%20Public%20Infrastructure%20By%20Brad%20Voris.pdf)
 * Collaborative Works
-** [Collaborative Works: Covid-19 What Initiatives should your organization take from a cyber security perspective By Monique Nicholson-Apatow & Brad Voris](https://www.linkedin.com/pulse/covid-19-what-initiatives-should-your-organization-nicholson-apatow/)
-** [Collaborative Works: Ransomware: To pay or not to pay By Kevin Kentner & Brad Voris](https://www.linkedin.com/pulse/ransomware-pay-question-kevin-kentner-cissp/)
+* * [Collaborative Works: Covid-19 What Initiatives should your organization take from a cyber security perspective By Monique Nicholson-Apatow & Brad Voris](https://www.linkedin.com/pulse/covid-19-what-initiatives-should-your-organization-nicholson-apatow/)
+* * [Collaborative Works: Ransomware: To pay or not to pay By Kevin Kentner & Brad Voris](https://www.linkedin.com/pulse/ransomware-pay-question-kevin-kentner-cissp/)
 * Peer Review and Content Editor
-** [Peer Review and Content Editor: Top Threats to Cloud Computing 2019 Report](https://cloudsecurityalliance.org/artifacts/top-threats-to-cloud-computing-egregious-eleven/?utm_source=linkedin)
-** [Peer Review and Content Editor: Complete Guide to Security Operation Center Part 1](https://github.com/bvoris/CollectiveWorks/blob/main/Collaborative/Complete-Guide-to-Cyber-Security-Operation-Center_v6.2_FINAL-pages-1.pdf)
-** [Peer Review and Content Editor: Complete Guide to Security Operation Center Part 2](https://github.com/bvoris/CollectiveWorks/blob/main/Collaborative/Complete-Guide-to-Cyber-Security-Operation-Center_v6.2_FINAL-pages-2.pdf)
+* * [Peer Review and Content Editor: Top Threats to Cloud Computing 2019 Report](https://cloudsecurityalliance.org/artifacts/top-threats-to-cloud-computing-egregious-eleven/?utm_source=linkedin)
+* * [Peer Review and Content Editor: Complete Guide to Security Operation Center Part 1](https://github.com/bvoris/CollectiveWorks/blob/main/Collaborative/Complete-Guide-to-Cyber-Security-Operation-Center_v6.2_FINAL-pages-1.pdf)
+* * [Peer Review and Content Editor: Complete Guide to Security Operation Center Part 2](https://github.com/bvoris/CollectiveWorks/blob/main/Collaborative/Complete-Guide-to-Cyber-Security-Operation-Center_v6.2_FINAL-pages-2.pdf)
 * Quotes and References
-** [Quotes and References: Cyber Warnings E-Magazine - How Windows Active Directory is the root cause of many logon security headaches](https://www.isdecisions.com/Resources/pdf/cyber-defense-magazine-ad-root-cause-problems-article.pdf)
+* * [Quotes and References: Cyber Warnings E-Magazine - How Windows Active Directory is the root cause of many logon security headaches](https://www.isdecisions.com/Resources/pdf/cyber-defense-magazine-ad-root-cause-problems-article.pdf)
 * Public Presentations
-** [Presentation: HOU.SEC.CON 2024 Threat Modeling with MITRE ATT&CK Framework](https://github.com/bvoris/houseccon2024presentation)
-* * [YouTube Presentation](https://www.youtube.com/watch?v=BhuFZ_4syVU)
-* [Presentation: HOU.SEC.CON 2025 - Mentorship When](https://github.com/bvoris/houseccon2025presentation/)
-* * [YouTube Presentation](https://www.youtube.com/watch?v=17wCQNgaFsM)
-* [Public Appearance: HOU.SEC.CON 2025 - CISO Series (Quick couple of seconds @about 98 seconds into it) "They don't test their plans..."](https://youtu.be/bVlqLHs9BaQ?si=NnLtVjdKvlI5v6Vm&t=98)
-* [Podcast: Breaking into Cybersecurity Leadership - with Host: Christophe Foulon - Brad Voris](https://www.youtube.com/watch?v=JdjavK-YUVY)
-* [Podcast: Cyber Warrior Studios - With Host: Derek Scheller Jr. - Defense in Depth and Secure Architecture](https://www.youtube.com/watch?v=417HVg2_a_I)
-
+* * [Presentation: HOU.SEC.CON 2024 Threat Modeling with MITRE ATT&CK Framework](https://github.com/bvoris/houseccon2024presentation)
+* * * [YouTube Presentation](https://www.youtube.com/watch?v=BhuFZ_4syVU)
+* * [Presentation: HOU.SEC.CON 2025 - Mentorship When](https://github.com/bvoris/houseccon2025presentation/)
+* * * [YouTube Presentation](https://www.youtube.com/watch?v=17wCQNgaFsM)
+* * [Public Appearance: HOU.SEC.CON 2025 - CISO Series (Quick couple of seconds @about 98 seconds into it) "They don't test their plans..."](https://youtu.be/bVlqLHs9BaQ?si=NnLtVjdKvlI5v6Vm&t=98)
+* Podcasts
+* * [Podcast: Breaking into Cybersecurity Leadership - with Host: Christophe Foulon - Brad Voris](https://www.youtube.com/watch?v=JdjavK-YUVY)
+* * [Podcast: Cyber Warrior Studios - With Host: Derek Scheller Jr. - Defense in Depth and Secure Architecture](https://www.youtube.com/watch?v=417HVg2_a_I)
 <BR />
 
 <B>Security Scripts and Applications</B><BR />
