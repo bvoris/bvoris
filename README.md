@@ -132,9 +132,12 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 
 <B>Certification, Training, & Career Resources</B><BR />
 <B>Description:</B> 
+* [TrainingResources - My repo for Training & Career Planning Resources](https://github.com/bvoris/TrainingResources)
+* [CISSPTraining - My repo for CISSP Training Material](https://github.com/bvoris/CISSPTraining)
+* [CCSKTraining - My repo for CCSK Training Material](https://github.com/bvoris/CCSKTraining)
+* [MSSC-900 - My repo for MS SC-900 Training Material](https://github.com/bvoris/MSSC-900)
 <BR />
-https://github.com/bvoris/Certification-Training-Career-Resources
-<BR /><BR />
+
 
 ## Connect with me at
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% ALIGN=LEFT></a>
