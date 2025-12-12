@@ -89,9 +89,17 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 
 <B>Active Directory Domain Services (ADDS) Scripts and Apps</B><BR />
 <B>Description:</B> 
+* [PSUserSecurityReport - Export all users from ADDS to a CSV file for auditing.](https://github.com/bvoris/PSUserSecurityReport)
+* [ADPAMReport - Export all privileged access management groups in ADDS to HTML report for auditing.](https://github.com/bvoris/ADPAMReport)
+* [ADDSPasswordExpirationReport - Report in ADDS to verify password expiration](https://github.com/bvoris/ADDSPasswordExpirationReport)
+* [addslastlogonreport - Report in ADDS on last time users logged in](https://github.com/bvoris/addslastlogonreport)
+* [PoShSearchADonEmail](https://github.com/bvoris/PoShSearchADonEmail)
+* [SID-from-Active-Directory-Name-or-Group-Name](https://github.com/bvoris/SID-from-Active-Directory-Name-or-Group-Name)
+* [PoShExportADOUStructure - PowerShell Export Organizational Unit export from Active Directory Domain Services (ADDS)](https://github.com/bvoris/PoShExportADOUStructure)
+* [PSBulkOUImport - PowerShell Bulk Organizational Unit Import into Active Directory Domain Services (ADDS)](https://github.com/bvoris/PSBulkOUImport)
+* [ActiveDirectoryReports - PowerShell Active Directory Report Web Application](https://github.com/bvoris/ActiveDirectoryReports)
+
 <BR />
-https://github.com/bvoris/Active-Directory-Scripts-and-Apps
-<BR /><BR />
 
 <B>Domain Naming Service (DNS) Scripts and Apps</B><BR />
 <B>Description:</B> 
