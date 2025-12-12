@@ -51,7 +51,7 @@ https://github.com/bvoris/Public-Speaking-and-Collective-Works
 <BR /><BR />
 
 <B>Security Scripts and Applications</B><BR />
-<B>Description:</B>Security scripts, applications, and security guides.
+<B>Description:</B> Security scripts, applications, and security guides.
 <BR />
 * [PowerShell Webserver Security Report - An advanced PowerShell version of a report that will test and validate webserver configuration settings.](https://github.com/bvoris/PoShWebserverSecurityReport)
 * [Python Webserver Security Report - An advanced Python version of a report that will test and validate webserver configuration settings.](https://github.com/bvoris/PythonWebserverSecurityReport)
@@ -69,7 +69,6 @@ https://github.com/bvoris/Public-Speaking-and-Collective-Works
 * [Guide: Building a Threat Modeling Program](https://github.com/bvoris/mitreattackthreatmodeling)
 * [Guide: Building an Information Security Program](https://github.com/bvoris/InformationSecurityProgram)
 
-https://github.com/bvoris/Security-Related-Scripts-and-Apps
 <BR /><BR />
 
 <B>Active Directory Domain Services (ADDS) Scripts and Apps</B><BR />
