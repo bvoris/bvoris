@@ -21,12 +21,12 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 
 ## My Public Presentations
 
-[My HOU.SEC.CON 2024 Presentation on MITRE ATT&CK Framework Threat Modeling](https://github.com/bvoris/houseccon2024presentation/)<BR />
+[My HOU.SEC.CON 2024 Presentation on MITRE ATT&CK Framework Threat Modeling](https://github.com/bvoris/houseccon2024presentation/)
 <BR /><BR />
 
 [My HOU.SEC.CON 2025 Presentation on Mentorship](https://github.com/bvoris/houseccon2025presentation/)<BR />
 <CENTER>
-<IMG SRC="https://github.com/bvoris/houseccon2025presentation/blob/main/Speaker%20Tiles_LinkedIn_BVoris.jpg?raw=true">
+<IMG SRC="https://github.com/bvoris/houseccon2025presentation/blob/main/Speaker%20Tiles_LinkedIn_BVoris.jpg">
 </CENTER>
 <BR /><BR />
 
