@@ -94,27 +94,27 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 <BR />
 
 <B>Active Directory Domain Services (ADDS) Scripts and Apps</B><BR />
-<B>Description:</B> 
-* [PSUserSecurityReport - Export all users from ADDS to a CSV file for auditing.](https://github.com/bvoris/PSUserSecurityReport)
-* [ADPAMReport - Export all privileged access management groups in ADDS to HTML report for auditing.](https://github.com/bvoris/ADPAMReport)
-* [ADDSPasswordExpirationReport - Report in ADDS to verify password expiration](https://github.com/bvoris/ADDSPasswordExpirationReport)
-* [addslastlogonreport - Report in ADDS on last time users logged in](https://github.com/bvoris/addslastlogonreport)
-* [PoShSearchADonEmail](https://github.com/bvoris/PoShSearchADonEmail)
-* [SID-from-Active-Directory-Name-or-Group-Name](https://github.com/bvoris/SID-from-Active-Directory-Name-or-Group-Name)
-* [PoShExportADOUStructure - PowerShell Export Organizational Unit export from Active Directory Domain Services (ADDS)](https://github.com/bvoris/PoShExportADOUStructure)
-* [PSBulkOUImport - PowerShell Bulk Organizational Unit Import into Active Directory Domain Services (ADDS)](https://github.com/bvoris/PSBulkOUImport)
-* [ActiveDirectoryReports - PowerShell Active Directory Report Web Application](https://github.com/bvoris/ActiveDirectoryReports)
+<B>Description:</B> PowerShell Active Directory Domain Services Scripts and Apps that have various functions..
+* [Powershell: PSUserSecurityReport - Export all users from ADDS to a CSV file for auditing.](https://github.com/bvoris/PSUserSecurityReport)
+* [Powershell: ADPAMReport - Export all privileged access management groups in ADDS to HTML report for auditing.](https://github.com/bvoris/ADPAMReport)
+* [Powershell: ADDSPasswordExpirationReport - Report in ADDS to verify password expiration](https://github.com/bvoris/ADDSPasswordExpirationReport)
+* [Powershell: addslastlogonreport - Report in ADDS on last time users logged in](https://github.com/bvoris/addslastlogonreport)
+* [Powershell: PoShSearchADonEmail](https://github.com/bvoris/PoShSearchADonEmail)
+* [Powershell: SID-from-Active-Directory-Name-or-Group-Name](https://github.com/bvoris/SID-from-Active-Directory-Name-or-Group-Name)
+* [Powershell: PoShExportADOUStructure - PowerShell Export Organizational Unit export from Active Directory Domain Services (ADDS)](https://github.com/bvoris/PoShExportADOUStructure)
+* [Powershell: PSBulkOUImport - PowerShell Bulk Organizational Unit Import into Active Directory Domain Services (ADDS)](https://github.com/bvoris/PSBulkOUImport)
+* [Powershell: ActiveDirectoryReports - PowerShell Active Directory Report Web Application](https://github.com/bvoris/ActiveDirectoryReports)
 <BR />
 
 <B>Domain Naming Service (DNS) Scripts and Apps</B><BR />
-<B>Description:</B> 
+<B>Description: Powershell Domain Naming Service (DNS) scripts and apps</B> 
 * [PowerShell: PoShDNSHealthReport - PowerShell Script to generate an HTML DNS Health Report](https://github.com/bvoris/PoShDNSHealthReport)
 * [PowerShell: PoShDNSScavenging1day - PowerShell Script to set DNS Scavenging to 1 day](https://github.com/bvoris/PoShDNSScavenging1day)
 * [PowerShell: PoShDNSScavenging7days - PowerShell Script to set DNS Scavenging to 7 days](https://github.com/bvoris/PoShDNSScavenging7days)
 <BR />
 
 <B>MS Exchange Scripts and Apps</B><BR />
-<B>Description:</B> 
+<B>Description: PowerShell Microsoft Exchange Scripts and Apps</B> 
 * [MS Exchange Scripts and Applications Exchange-2010-Clear-Poison-messages-from-the-queue - PowerShell script that clears messages stuck in the messaging queue](https://github.com/bvoris/Exchange-2010-Clear-Poison-messages-from-the-queue)
 * [Exchange-database-replication-report - PowerShell script that generates an HTML based Exchange database replication report](https://github.com/bvoris/Exchange-database-replication-report)
 * [PoSHExchangeHideUserGAL - PowerShell script to hide users from the Global Address List in Exchange](https://github.com/bvoris/PoSHExchangeHideUserGAL)
@@ -122,17 +122,17 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 
 
 <B>Various Scripts and Apps</B><BR />
-<B>Description:</B> 
-* [PSNetMon Network Resource Monitoring Utility for Windows](https://github.com/bvoris/PSNetMon)
-* [CurrentWeatherConditions - PowerShell Script that scrapes Weather.com to get current weather conditions.](https://github.com/bvoris/currentweatherconditions)
-* [NoSleepTillBrooklyn - PowerShell script that keeps your screensaver / screen lock from running.](https://github.com/bvoris/NoSleepTillBrooklyn)
-* [PoShSpeechSynth - PowerShell Speech Synthesizer](https://github.com/bvoris/PoShSpeechSynth)
-* [LANMonkey - HyperText Application with some web based tools for networking](https://github.com/bvoris/LANMonkey)
+<B>Description: Various scripts and apps in Bash, PowerShell, Python, etc.</B> 
+* [Powershell: PSNetMon Network Resource Monitoring Utility for Windows](https://github.com/bvoris/PSNetMon)
+* [Powershell:CurrentWeatherConditions - PowerShell Script that scrapes Weather.com to get current weather conditions.](https://github.com/bvoris/currentweatherconditions)
+* [Powershell:NoSleepTillBrooklyn - PowerShell script that keeps your screensaver / screen lock from running.](https://github.com/bvoris/NoSleepTillBrooklyn)
+* [Powershell:PoShSpeechSynth - PowerShell Speech Synthesizer](https://github.com/bvoris/PoShSpeechSynth)
+* [HyperText Application: LANMonkey - HyperText Application with some web based tools for networking](https://github.com/bvoris/LANMonkey)
 * [SysInfo - PowerShell Script that generates an HTML System Information report](https://github.com/bvoris/SysInfo)
 * [LinuxScriptRepo - Generic Linux shell scripts, config files and penetration testing application scripts](https://github.com/bvoris/LinuxScriptRepo)
-* [PSNetMon Linux - PSNetMon Network Resource Monitoring Utility for Linux (conversion)](https://github.com/bvoris/PSNetMonLinux)
+* [Powershell: PSNetMon Linux - PSNetMon Network Resource Monitoring Utility for Linux (conversion)](https://github.com/bvoris/PSNetMonLinux)
 * [Sunfounder NAS Kit Fix - walkthrough for NAS Kit hat installation](https://github.com/bvoris/SunFounderNASKitFix)
-* [YT-DLP PoSh GUI - Frontend GUI for YT-DLP written and compiled in PowerShell for Windows](https://github.com/bvoris/yt-dlp-posh-gui)
+* [Powershell: YT-DLP PoSh GUI - Frontend GUI for YT-DLP written and compiled in PowerShell for Windows](https://github.com/bvoris/yt-dlp-posh-gui)
 <BR />
 
 
