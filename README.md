@@ -19,7 +19,7 @@ Before his IT and Security journey, Brad served in the US Army. <BR /><BR />
 I am starting to shift my focus away from PowerShell scripting to Python development. I will still support my larger PowerShell projects but newer projects will be in Python.
 <BR /><BR />
 
-## My Public Presentations
+## High Profile Public Presentations
 
 [My HOU.SEC.CON 2024 Presentation on MITRE ATT&CK Framework Threat Modeling](https://github.com/bvoris/houseccon2024presentation/)
 <BR /><BR />
