@@ -36,7 +36,7 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 <BR />
 * [My Blog](https://bvoris.github.io/)
 * Publications
-* * [Peerlyst Published Books: Intrusion Detection Guide - Chapter 10 Compliance](https://github.com/bvoris/CollectiveWorks/blob/main/Collaborative/Intrusion_Detection_Guide.pdf)
+  * [Peerlyst Published Books: Intrusion Detection Guide - Chapter 10 Compliance](https://github.com/bvoris/CollectiveWorks/blob/main/Collaborative/Intrusion_Detection_Guide.pdf)
 * * [Peerlyst Published Books: Essentials of Cybersecurity - Peerlyst (Chapter 8 Understanding Central Areas of Enterprise Defense](https://github.com/bvoris/CollectiveWorks/blob/main/Collaborative/Peerlyst_eBook_2_-_Essentials_of_Cybersecurity.pdf)
 * * [Published Article: Top Cyber News Magazine - December 2022](https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Top%20Cyber%20News%20Magazine%20December%202022.pdf)
 * Articles
