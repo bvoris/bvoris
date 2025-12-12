@@ -54,20 +54,20 @@ https://github.com/bvoris/Public-Speaking-and-Collective-Works
 <B>Description:</B>Security scripts, applications, and security guides.
 <BR />
 * [PowerShell Webserver Security Report - An advanced PowerShell version of a report that will test and validate webserver configuration settings.](https://github.com/bvoris/PoShWebserverSecurityReport)
-* Python Webserver Security Report - An advanced Python version of a report that will test and validate webserver configuration settings.
-* Python - OSINTProfiler - Open Source Intelligence Profiler develops a profile on a target 
-* SettingContent-MS-File-Execution - Proof of concept for exploitation of SettingContent-MS file format in PowerShell
-* PowerShell LNK Exploit -  Embeddinbg PowerShell in an LNK file
-* PowerShell CMD Execution Relative Path PoC - a Command Execution on relative path proof of concept
-* PowerShell base64 Obfuscation - How to obfuscate processes and date in base64 from PowerShell
-* PowerShell AbuseODBChecker - PowerShell Script that queries an IP address from user input and exports the search results from AbuseIPDB.com
-* HTA Arbitrary Code Framework - Hypertext Application Arbitrary Code Execution Framework is a proof of concept / framework for running malicious code in a "trusted" Hypertext application.
-* Red Team Recon -  Red team utility to export sensitive configuration data of a domain and systems to a file.
-* RaspberryPiZeek - Raspberry Pi Zeek/Bro Network Security Monitor Project
-* RSSFeeds - Security Feeds in an OPML file format
-* Guide: Mitreattackthreatmodeling - MITRE ATT&CK Framework Threat Modeling
-* Guide: Building a Threat Modeling Program
-* Guide: Building an Information Security Program
+* [Python Webserver Security Report - An advanced Python version of a report that will test and validate webserver configuration settings.](https://github.com/bvoris/PythonWebserverSecurityReport)
+* [Python - OSINTProfiler - Open Source Intelligence Profiler develops a profile on a target](https://github.com/bvoris/osintprofdev)
+* [SettingContent-MS-File-Execution - Proof of concept for exploitation of SettingContent-MS file format in PowerShell](https://github.com/bvoris/SettingContent-MS-File-Execution)
+* [PowerShell LNK Exploit -  Embeddinbg PowerShell in an LNK file](https://github.com/bvoris/PoShLNKScriptExploit)
+* [PowerShell CMD Execution Relative Path PoC - a Command Execution on relative path proof of concept](https://github.com/bvoris/Cmdexerelativepathpoc)
+* [PowerShell base64 Obfuscation - How to obfuscate processes and date in base64 from PowerShell](https://github.com/bvoris/base64obfuscatinginpowershell)
+* [PowerShell AbuseODBChecker - PowerShell Script that queries an IP address from user input and exports the search results from AbuseIPDB.com](https://github.com/bvoris/AbuseIPDBChecker)
+* [HTA Arbitrary Code Framework - Hypertext Application Arbitrary Code Execution Framework is a proof of concept / framework for running malicious code in a "trusted" Hypertext application.](https://github.com/bvoris/HTAArbitraryCodeFramework)
+* [Red Team Recon -  Red team utility to export sensitive configuration data of a domain and systems to a file.](https://github.com/bvoris/RedTeamRecon)
+* [RaspberryPiZeek - Raspberry Pi Zeek/Bro Network Security Monitor Project](https://github.com/bvoris/RaspberryPiZeek)
+* [RSSFeeds - Security Feeds in an OPML file format](https://github.com/bvoris/RSSFeeds)
+* [Guide: Mitreattackthreatmodeling - MITRE ATT&CK Framework Threat Modeling](https://github.com/bvoris/mitreattackthreatmodeling)
+* [Guide: Building a Threat Modeling Program](https://github.com/bvoris/mitreattackthreatmodeling)
+* [Guide: Building an Information Security Program](https://github.com/bvoris/InformationSecurityProgram)
 
 https://github.com/bvoris/Security-Related-Scripts-and-Apps
 <BR /><BR />
