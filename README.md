@@ -46,6 +46,8 @@ https://github.com/bvoris/houseccon2025presentation/<BR />
 ## CATAGORIES 
 <B>Public Speaking & Collective Works</B><BR />
 https://github.com/bvoris/Public-Speaking-and-Collective-Works
+<BR />
+<B>Description:</B> My public speaking events and published articles, books, and online content throughout my career.
 <BR /><BR />
 
 <B>Security Scripts and Applications</B><BR />
