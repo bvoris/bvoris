@@ -107,18 +107,28 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 * [PowerShell: PoShDNSScavenging7days - PowerShell Script to set DNS Scavenging to 7 days](https://github.com/bvoris/PoShDNSScavenging7days)
 <BR />
 
-
 <B>MS Exchange Scripts and Apps</B><BR />
 <B>Description:</B> 
+* [MS Exchange Scripts and Applications Exchange-2010-Clear-Poison-messages-from-the-queue - PowerShell script that clears messages stuck in the messaging queue](https://github.com/bvoris/Exchange-2010-Clear-Poison-messages-from-the-queue)
+* [Exchange-database-replication-report - PowerShell script that generates an HTML based Exchange database replication report](https://github.com/bvoris/Exchange-database-replication-report)
+* [PoSHExchangeHideUserGAL - PowerShell script to hide users from the Global Address List in Exchange](https://github.com/bvoris/PoSHExchangeHideUserGAL)
 <BR />
-https://github.com/bvoris/Exchange-Scripts-and-Apps
-<BR /><BR />
+
 
 <B>Various Scripts and Apps</B><BR />
 <B>Description:</B> 
+* [PSNetMon Network Resource Monitoring Utility for Windows](https://github.com/bvoris/PSNetMon)
+* [CurrentWeatherConditions - PowerShell Script that scrapes Weather.com to get current weather conditions.](https://github.com/bvoris/currentweatherconditions)
+* [NoSleepTillBrooklyn - PowerShell script that keeps your screensaver / screen lock from running.](https://github.com/bvoris/NoSleepTillBrooklyn)
+* [PoShSpeechSynth - PowerShell Speech Synthesizer](https://github.com/bvoris/PoShSpeechSynth)
+* [LANMonkey - HyperText Application with some web based tools for networking](https://github.com/bvoris/LANMonkey)
+* [SysInfo - PowerShell Script that generates an HTML System Information report](https://github.com/bvoris/SysInfo)
+* [LinuxScriptRepo - Generic Linux shell scripts, config files and penetration testing application scripts](https://github.com/bvoris/LinuxScriptRepo)
+* [PSNetMon Linux - PSNetMon Network Resource Monitoring Utility for Linux (conversion)](https://github.com/bvoris/PSNetMonLinux)
+* [Sunfounder NAS Kit Fix - walkthrough for NAS Kit hat installation](https://github.com/bvoris/SunFounderNASKitFix)
+* [YT-DLP PoSh GUI - Frontend GUI for YT-DLP written and compiled in PowerShell for Windows](https://github.com/bvoris/yt-dlp-posh-gui)
 <BR />
-https://github.com/bvoris/Various-Scripts-and-Apps
-<BR /><BR />
+
 
 <B>Certification, Training, & Career Resources</B><BR />
 <B>Description:</B> 
