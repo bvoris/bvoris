@@ -51,15 +51,21 @@ https://github.com/bvoris/Public-Speaking-and-Collective-Works
 <BR /><BR />
 
 <B>Security Scripts and Applications</B><BR />
-<B>Description:</B> 
+<B>Description:</B>Security scripts, applications, and security guides.
 <BR />
-* PowerShell & Python Webserver Security Report
+* PowerShell & Python Webserver Security Report - An advanced Python & PowerShell versions of a report that will test and validate webserver configuration settings.
 * SettingContent-MS-File-Execution - Proof of concept for exploitation of SettingContent-MS file format in PowerShell
 * PowerShell LNK Exploit -  Embeddinbg PowerShell in an LNK file
 * PowerShell CMD Execution Relative Path PoC - a Command Execution on relative path proof of concept
 * PowerShell base64 Obfuscation - How to obfuscate processes and date in base64 from PowerShell
+* PowerShell AbuseODBChecker - PowerShell Script that queries an IP address from user input and exports the search results from AbuseIPDB.com
 * HTA Arbitrary Code Framework - Hypertext Application Arbitrary Code Execution Framework is a proof of concept / framework for running malicious code in a "trusted" Hypertext application.
 * Red Team Recon -  Red team utility to export sensitive configuration data of a domain and systems to a file.
+* RaspberryPiZeek - Raspberry Pi Zeek/Bro Network Security Monitor Project
+* RSSFeeds - Security Feeds in an OPML file format
+* Guide: Mitreattackthreatmodeling - MITRE ATT&CK Framework Threat Modeling
+* Guide: Building a Threat Modeling Program
+* Guide: Building an Information Security Program
 
 https://github.com/bvoris/Security-Related-Scripts-and-Apps
 <BR /><BR />
