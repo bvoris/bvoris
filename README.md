@@ -98,14 +98,15 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 * [PoShExportADOUStructure - PowerShell Export Organizational Unit export from Active Directory Domain Services (ADDS)](https://github.com/bvoris/PoShExportADOUStructure)
 * [PSBulkOUImport - PowerShell Bulk Organizational Unit Import into Active Directory Domain Services (ADDS)](https://github.com/bvoris/PSBulkOUImport)
 * [ActiveDirectoryReports - PowerShell Active Directory Report Web Application](https://github.com/bvoris/ActiveDirectoryReports)
-
 <BR />
 
 <B>Domain Naming Service (DNS) Scripts and Apps</B><BR />
 <B>Description:</B> 
+* [PowerShell: PoShDNSHealthReport - PowerShell Script to generate an HTML DNS Health Report](https://github.com/bvoris/PoShDNSHealthReport)
+* [PowerShell: PoShDNSScavenging1day - PowerShell Script to set DNS Scavenging to 1 day](https://github.com/bvoris/PoShDNSScavenging1day)
+* [PowerShell: PoShDNSScavenging7days - PowerShell Script to set DNS Scavenging to 7 days](https://github.com/bvoris/PoShDNSScavenging7days)
 <BR />
-https://github.com/bvoris/DNS-Scripts-and-Apps
-<BR /><BR />
+
 
 <B>MS Exchange Scripts and Apps</B><BR />
 <B>Description:</B> 
