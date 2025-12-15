@@ -110,14 +110,14 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 <BR />
 
 <B>Domain Naming Service (DNS) Scripts and Apps</B><BR />
-<B>Description: Powershell Domain Naming Service (DNS) scripts and apps</B> 
+<B>Description:</B> Powershell Domain Naming Service (DNS) scripts and apps 
 * [PowerShell: PoShDNSHealthReport - PowerShell Script to generate an HTML DNS Health Report](https://github.com/bvoris/PoShDNSHealthReport)
 * [PowerShell: PoShDNSScavenging1day - PowerShell Script to set DNS Scavenging to 1 day](https://github.com/bvoris/PoShDNSScavenging1day)
 * [PowerShell: PoShDNSScavenging7days - PowerShell Script to set DNS Scavenging to 7 days](https://github.com/bvoris/PoShDNSScavenging7days)
 <BR />
 
 <B>MS Exchange Scripts and Apps</B><BR />
-<B>Description: PowerShell Microsoft Exchange Scripts and Apps</B> 
+<B>Description:</B> PowerShell Microsoft Exchange Scripts and Apps 
 * [PowerShell: MS Exchange Scripts and Applications Exchange-2010-Clear-Poison-messages-from-the-queue - PowerShell script that clears messages stuck in the messaging queue](https://github.com/bvoris/Exchange-2010-Clear-Poison-messages-from-the-queue)
 * [PowerShell: Exchange-database-replication-report - PowerShell script that generates an HTML based Exchange database replication report](https://github.com/bvoris/Exchange-database-replication-report)
 * [PowerShell: PoSHExchangeHideUserGAL - PowerShell script to hide users from the Global Address List in Exchange](https://github.com/bvoris/PoSHExchangeHideUserGAL)
@@ -125,7 +125,7 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 
 
 <B>Various Scripts and Apps</B><BR />
-<B>Description: Various scripts and apps in Bash, PowerShell, Python, etc.</B> 
+<B>Description:</B> Various scripts and apps in Bash, PowerShell, Python, etc. 
 * [Powershell: PSNetMon Network Resource Monitoring Utility for Windows](https://github.com/bvoris/PSNetMon)
 * [Powershell: CurrentWeatherConditions - PowerShell Script that scrapes Weather.com to get current weather conditions.](https://github.com/bvoris/currentweatherconditions)
 * [Powershell: NoSleepTillBrooklyn - PowerShell script that keeps your screensaver / screen lock from running.](https://github.com/bvoris/NoSleepTillBrooklyn)
@@ -145,7 +145,7 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 
 
 <B>Certification, Training, & Career Resources</B><BR />
-<B>Description:</B> 
+<B>Description:</B> Certification, Training, and Career Planning Resources
 * [TrainingResources - My repo for Training & Career Planning Resources](https://github.com/bvoris/TrainingResources)
 * [CISSPTraining - My repo for CISSP Training Material](https://github.com/bvoris/CISSPTraining)
 * [CISM Training - My repo for CISM Training Material](https://github.com/bvoris/CISMTraining)
@@ -158,7 +158,6 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 ## Connect with me at
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% ALIGN=LEFT></a>
 <a href="https://www.linkedin.com/in/brad-voris" target="_blank"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/linkedin.png" WIDTH=10% HEIGHT=4% ALIGN=RIGHT></a>
-<BR /><BR />
 <BR /><BR />
 <CENTER><A HREF="https://www.victimoftechnology.com">Victim Of Technology<A /></CENTER>
 <BR /><BR />
