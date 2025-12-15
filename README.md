@@ -149,7 +149,7 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 * [TrainingResources - My repo for Training & Career Planning Resources](https://github.com/bvoris/TrainingResources)
 * [CISSPTraining - My repo for CISSP Training Material](https://github.com/bvoris/CISSPTraining)
 * [CISM Training - My repo for CISM Training Material](https://github.com/bvoris/CISMTraining)
-* [CCSKTraining - My repo for CCSK Training Material](https://github.com/bvoris/CCSKTraining)
+* [CCSK Training - My repo for CCSK Training Material](https://github.com/bvoris/CCSKTraining)
 * [ITIL Training - My repo for ITIL Training Material](https://github.com/bvoris/ITILTraining)
 * [MSSC-900 - My repo for MS SC-900 Training Material](https://github.com/bvoris/MSSC-900)
 <BR />
