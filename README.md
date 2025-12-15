@@ -72,7 +72,9 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 * Podcasts
   * [Podcast: Breaking into Cybersecurity Leadership - with Host: Christophe Foulon - Brad Voris](https://www.youtube.com/watch?v=JdjavK-YUVY)
   * [Podcast: Cyber Warrior Studios - With Host: Derek Scheller Jr. - Defense in Depth and Secure Architecture](https://www.youtube.com/watch?v=417HVg2_a_I)
-<BR />
+* Guides
+  * [Guide: My Mentorship Program: What is mentorship, how it works, do you want to be a mentor?](https://github.com/bvoris/MyMentorshipProgram)
+  <BR />
 
 <B>Security Scripts and Applications</B><BR />
 <B>Description:</B> Security scripts, applications, and security guides.
@@ -134,6 +136,11 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 * [Powershell: PSNetMon Linux - PSNetMon Network Resource Monitoring Utility for Linux (conversion)](https://github.com/bvoris/PSNetMonLinux)
 * [Bash: Sunfounder NAS Kit Fix - walkthrough for NAS Kit hat installation](https://github.com/bvoris/SunFounderNASKitFix)
 * [Powershell: YT-DLP PoSh GUI - Frontend GUI for YT-DLP written and compiled in PowerShell for Windows](https://github.com/bvoris/yt-dlp-posh-gui)
+* [C64: Commodore64 content and guides](https://github.com/bvoris/Commodore64)
+* [Bash & Python: RaspberryPi Night Vision Goggles enables night vision and screen capabilities on a RaspberryPi Zero](https://github.com/bvoris/Raspberry-Pi-NightVisionGoggles)
+* [PowerShell: ClickClicky PoSh Scripe to left click the mouse a given number of times](https://github.com/bvoris/Clickyclicky)
+* [Python - Python Font Colors on Screen](https://github.com/bvoris/python-font-colors)
+* [Python - SEC290 Python Class Notes & Content](https://github.com/bvoris/python-font-colors)
 <BR />
 
 
@@ -141,7 +148,9 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 <B>Description:</B> 
 * [TrainingResources - My repo for Training & Career Planning Resources](https://github.com/bvoris/TrainingResources)
 * [CISSPTraining - My repo for CISSP Training Material](https://github.com/bvoris/CISSPTraining)
+* [CISM Training - My repo for CISM Training Material](https://github.com/bvoris/CISMTraining)
 * [CCSKTraining - My repo for CCSK Training Material](https://github.com/bvoris/CCSKTraining)
+* [ITIL Training - My repo for ITIL Training Material](https://github.com/bvoris/ITILTraining)
 * [MSSC-900 - My repo for MS SC-900 Training Material](https://github.com/bvoris/MSSC-900)
 <BR />
 
