@@ -68,6 +68,7 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
   * [Presentation: HOU.SEC.CON 2025 - Mentorship When](https://github.com/bvoris/houseccon2025presentation/)
     * [YouTube Presentation](https://www.youtube.com/watch?v=17wCQNgaFsM)
   * [Public Appearance: HOU.SEC.CON 2025 - CISO Series (Quick couple of seconds @about 98 seconds into it) "They don't test their plans..."](https://youtu.be/bVlqLHs9BaQ?si=NnLtVjdKvlI5v6Vm&t=98)
+  * [Presentation: InfraGard April 2025 Cloud Security](https://github.com/bvoris/InfraGardPresentation)
 * Podcasts
   * [Podcast: Breaking into Cybersecurity Leadership - with Host: Christophe Foulon - Brad Voris](https://www.youtube.com/watch?v=JdjavK-YUVY)
   * [Podcast: Cyber Warrior Studios - With Host: Derek Scheller Jr. - Defense in Depth and Secure Architecture](https://www.youtube.com/watch?v=417HVg2_a_I)
@@ -85,8 +86,8 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 * [PowerShell: base64 Obfuscation - How to obfuscate processes and date in base64 from PowerShell](https://github.com/bvoris/base64obfuscatinginpowershell)
 * [PowerShell: AbuseODBChecker - PowerShell Script that queries an IP address from user input and exports the search results from AbuseIPDB.com](https://github.com/bvoris/AbuseIPDBChecker)
 * [HyperText Application: HTA Arbitrary Code Framework - Hypertext Application Arbitrary Code Execution Framework is a proof of concept / framework for running malicious code in a "trusted" Hypertext application.](https://github.com/bvoris/HTAArbitraryCodeFramework)
-* [Red Team Recon -  Red team utility to export sensitive configuration data of a domain and systems to a file.](https://github.com/bvoris/RedTeamRecon)
-* [RaspberryPiZeek - Raspberry Pi Zeek/Bro Network Security Monitor Project](https://github.com/bvoris/RaspberryPiZeek)
+* [DOS CLI: Red Team Recon -  Red team utility to export sensitive configuration data of a domain and systems to a file.](https://github.com/bvoris/RedTeamRecon)
+* [Bash: RaspberryPiZeek - Raspberry Pi Zeek/Bro Network Security Monitor Project](https://github.com/bvoris/RaspberryPiZeek)
 * [RSSFeeds - Security Feeds in an OPML file format](https://github.com/bvoris/RSSFeeds)
 * [Guide: Mitreattackthreatmodeling - MITRE ATT&CK Framework Threat Modeling](https://github.com/bvoris/mitreattackthreatmodeling)
 * [Guide: Building a Threat Modeling Program](https://github.com/bvoris/mitreattackthreatmodeling)
@@ -124,14 +125,14 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 <B>Various Scripts and Apps</B><BR />
 <B>Description: Various scripts and apps in Bash, PowerShell, Python, etc.</B> 
 * [Powershell: PSNetMon Network Resource Monitoring Utility for Windows](https://github.com/bvoris/PSNetMon)
-* [Powershell:CurrentWeatherConditions - PowerShell Script that scrapes Weather.com to get current weather conditions.](https://github.com/bvoris/currentweatherconditions)
-* [Powershell:NoSleepTillBrooklyn - PowerShell script that keeps your screensaver / screen lock from running.](https://github.com/bvoris/NoSleepTillBrooklyn)
-* [Powershell:PoShSpeechSynth - PowerShell Speech Synthesizer](https://github.com/bvoris/PoShSpeechSynth)
+* [Powershell: CurrentWeatherConditions - PowerShell Script that scrapes Weather.com to get current weather conditions.](https://github.com/bvoris/currentweatherconditions)
+* [Powershell: NoSleepTillBrooklyn - PowerShell script that keeps your screensaver / screen lock from running.](https://github.com/bvoris/NoSleepTillBrooklyn)
+* [Powershell: PoShSpeechSynth - PowerShell Speech Synthesizer](https://github.com/bvoris/PoShSpeechSynth)
 * [HyperText Application: LANMonkey - HyperText Application with some web based tools for networking](https://github.com/bvoris/LANMonkey)
-* [SysInfo - PowerShell Script that generates an HTML System Information report](https://github.com/bvoris/SysInfo)
-* [LinuxScriptRepo - Generic Linux shell scripts, config files and penetration testing application scripts](https://github.com/bvoris/LinuxScriptRepo)
+* [PowerShell: SysInfo - PowerShell Script that generates an HTML System Information report](https://github.com/bvoris/SysInfo)
+* [Bash: LinuxScriptRepo - Generic Linux shell scripts, config files and penetration testing application scripts](https://github.com/bvoris/LinuxScriptRepo)
 * [Powershell: PSNetMon Linux - PSNetMon Network Resource Monitoring Utility for Linux (conversion)](https://github.com/bvoris/PSNetMonLinux)
-* [Sunfounder NAS Kit Fix - walkthrough for NAS Kit hat installation](https://github.com/bvoris/SunFounderNASKitFix)
+* [Bash: Sunfounder NAS Kit Fix - walkthrough for NAS Kit hat installation](https://github.com/bvoris/SunFounderNASKitFix)
 * [Powershell: YT-DLP PoSh GUI - Frontend GUI for YT-DLP written and compiled in PowerShell for Windows](https://github.com/bvoris/yt-dlp-posh-gui)
 <BR />
 
