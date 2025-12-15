@@ -76,15 +76,15 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 <B>Security Scripts and Applications</B><BR />
 <B>Description:</B> Security scripts, applications, and security guides.
 <BR />
-* [PowerShell Webserver Security Report - An advanced PowerShell version of a report that will test and validate webserver configuration settings.](https://github.com/bvoris/PoShWebserverSecurityReport)
-* [Python Webserver Security Report - An advanced Python version of a report that will test and validate webserver configuration settings.](https://github.com/bvoris/PythonWebserverSecurityReport)
-* [Python - OSINTProfiler - Open Source Intelligence Profiler develops a profile on a target](https://github.com/bvoris/osintprofdev)
-* [SettingContent-MS-File-Execution - Proof of concept for exploitation of SettingContent-MS file format in PowerShell](https://github.com/bvoris/SettingContent-MS-File-Execution)
-* [PowerShell LNK Exploit -  Embeddinbg PowerShell in an LNK file](https://github.com/bvoris/PoShLNKScriptExploit)
-* [PowerShell CMD Execution Relative Path PoC - a Command Execution on relative path proof of concept](https://github.com/bvoris/Cmdexerelativepathpoc)
-* [PowerShell base64 Obfuscation - How to obfuscate processes and date in base64 from PowerShell](https://github.com/bvoris/base64obfuscatinginpowershell)
-* [PowerShell AbuseODBChecker - PowerShell Script that queries an IP address from user input and exports the search results from AbuseIPDB.com](https://github.com/bvoris/AbuseIPDBChecker)
-* [HTA Arbitrary Code Framework - Hypertext Application Arbitrary Code Execution Framework is a proof of concept / framework for running malicious code in a "trusted" Hypertext application.](https://github.com/bvoris/HTAArbitraryCodeFramework)
+* [PowerShell: Webserver Security Report - An advanced PowerShell version of a report that will test and validate webserver configuration settings.](https://github.com/bvoris/PoShWebserverSecurityReport)
+* [Python: Webserver Security Report - An advanced Python version of a report that will test and validate webserver configuration settings.](https://github.com/bvoris/PythonWebserverSecurityReport)
+* [Python: OSINTProfiler - Open Source Intelligence Profiler develops a profile on a target](https://github.com/bvoris/osintprofdev)
+* [PowerShell: SettingContent-MS-File-Execution - Proof of concept for exploitation of SettingContent-MS file format in PowerShell](https://github.com/bvoris/SettingContent-MS-File-Execution)
+* [PowerShell: LNK Exploit -  Embeddinbg PowerShell in an LNK file](https://github.com/bvoris/PoShLNKScriptExploit)
+* [PowerShell: CMD Execution Relative Path PoC - a Command Execution on relative path proof of concept](https://github.com/bvoris/Cmdexerelativepathpoc)
+* [PowerShell: base64 Obfuscation - How to obfuscate processes and date in base64 from PowerShell](https://github.com/bvoris/base64obfuscatinginpowershell)
+* [PowerShell: AbuseODBChecker - PowerShell Script that queries an IP address from user input and exports the search results from AbuseIPDB.com](https://github.com/bvoris/AbuseIPDBChecker)
+* [HyperText Application: HTA Arbitrary Code Framework - Hypertext Application Arbitrary Code Execution Framework is a proof of concept / framework for running malicious code in a "trusted" Hypertext application.](https://github.com/bvoris/HTAArbitraryCodeFramework)
 * [Red Team Recon -  Red team utility to export sensitive configuration data of a domain and systems to a file.](https://github.com/bvoris/RedTeamRecon)
 * [RaspberryPiZeek - Raspberry Pi Zeek/Bro Network Security Monitor Project](https://github.com/bvoris/RaspberryPiZeek)
 * [RSSFeeds - Security Feeds in an OPML file format](https://github.com/bvoris/RSSFeeds)
@@ -115,9 +115,9 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 
 <B>MS Exchange Scripts and Apps</B><BR />
 <B>Description: PowerShell Microsoft Exchange Scripts and Apps</B> 
-* [MS Exchange Scripts and Applications Exchange-2010-Clear-Poison-messages-from-the-queue - PowerShell script that clears messages stuck in the messaging queue](https://github.com/bvoris/Exchange-2010-Clear-Poison-messages-from-the-queue)
-* [Exchange-database-replication-report - PowerShell script that generates an HTML based Exchange database replication report](https://github.com/bvoris/Exchange-database-replication-report)
-* [PoSHExchangeHideUserGAL - PowerShell script to hide users from the Global Address List in Exchange](https://github.com/bvoris/PoSHExchangeHideUserGAL)
+* [PowerShell: MS Exchange Scripts and Applications Exchange-2010-Clear-Poison-messages-from-the-queue - PowerShell script that clears messages stuck in the messaging queue](https://github.com/bvoris/Exchange-2010-Clear-Poison-messages-from-the-queue)
+* [PowerShell: Exchange-database-replication-report - PowerShell script that generates an HTML based Exchange database replication report](https://github.com/bvoris/Exchange-database-replication-report)
+* [PowerShell: PoSHExchangeHideUserGAL - PowerShell script to hide users from the Global Address List in Exchange](https://github.com/bvoris/PoSHExchangeHideUserGAL)
 <BR />
 
 
