@@ -1,5 +1,5 @@
 <CENTER><img src="https://github.com/bvoris/bvoris/blob/master/newbanner.jpg"></CENTER><BR />
-<B>Introduction</B><BR />
+## Introduction
 <BR />
 Brad Voris has been working in Information Technology and Cybersecurity for over 25 years. He began his career in 1999 where he spent 15 years building a solid foundation in the IT field. In 2016, thanks to the suggestion of a colleague, Brad began studying to attain his CISSP Security Certification.<BR /><BR />
 
