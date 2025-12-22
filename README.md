@@ -65,7 +65,7 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 * Public Presentations
   * [Presentation: HOU.SEC.CON 2024 Threat Modeling with MITRE ATT&CK Framework](https://github.com/bvoris/houseccon2024presentation)
     * [YouTube Presentation](https://www.youtube.com/watch?v=BhuFZ_4syVU)
-  * [Presentation: HOU.SEC.CON 2025 - Mentorship When](https://github.com/bvoris/houseccon2025presentation/)
+  * [Presentation: HOU.SEC.CON 2025 - Mentorship When certifications, experience, a degree, and skills are not enough...](https://github.com/bvoris/houseccon2025presentation/)
     * [YouTube Presentation](https://www.youtube.com/watch?v=17wCQNgaFsM)
   * [Public Appearance: HOU.SEC.CON 2025 - CISO Series (Quick couple of seconds @about 98 seconds into it) "They don't test their plans..."](https://youtu.be/bVlqLHs9BaQ?si=NnLtVjdKvlI5v6Vm&t=98)
   * [Presentation: InfraGard April 2025 Cloud Security](https://github.com/bvoris/InfraGardPresentation)
