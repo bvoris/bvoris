@@ -7,7 +7,7 @@ Brad Voris has been working in Information Technology and Cybersecurity for over
 
 After passing the exam and officially entering the Security field, Brad continued his upward trend through the acquisition of an array of certifications: CISSP, CISM, CCSP, CCSK, Network+, MCP, MTA, VCA-DCV, NSE1, NSE2, NSE3, ACE, 100W – OPSEC, Trustee, AZ900, SC900, and Licensed Private Investigator for the State of Texas. Brad completed an Cybersecurity degree program with Wilmington University.<BR /><BR />
 
-Continued knowledge and high-level performance has led him to work with a list of enterprise organizations including United Airlines, Texas Children’s Hospital, and Walmart. <BR /><BR />
+Continued knowledge and high-level performance has led him to work with a list of enterprise organizations including United Airlines, JP Moragan Chase, Texas Children’s Hospital, and Walmart. <BR /><BR />
 
 He was quoted in the August 2017 issue of IS Decisions magazine, commenting on the insecurities of Microsoft Active Directory, stating: “Audit logs are in the form of event logs with specific error messages, some of which require Group Policy configuration changes on the Domain Controller Default Policy. Initially, there is VERY limited logs and in order to get more data you have to make a fair amount of changes to Group Policy. Very important.” <BR /><BR />
 
