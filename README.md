@@ -1,5 +1,8 @@
 <CENTER><img src="https://github.com/bvoris/bvoris/blob/master/newbanner.jpg"></CENTER><BR />
-![Visitor Count](https://profile-counter.glitch.me/bvoris/count.svg)
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/bvoris/count.svg" alt="Visitor's Count" />
+</div>
 
 ## Introduction
 
