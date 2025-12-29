@@ -1,9 +1,4 @@
 <CENTER><img src="https://github.com/bvoris/bvoris/blob/master/newbanner.jpg"></CENTER><BR />
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/bvoris/count.svg" alt="Visitor's Count" />
-</div>
-
 ## Introduction
 
 <BR />
