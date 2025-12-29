@@ -1,4 +1,5 @@
 <CENTER><img src="https://github.com/bvoris/bvoris/blob/master/newbanner.jpg"></CENTER><BR />
+![](https://komarev.com/ghpvc/?username=bvoris&label=PROFILE+VIEWS)
 ## Introduction
 
 <BR />
