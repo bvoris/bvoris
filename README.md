@@ -142,7 +142,7 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 * [Bash & Python: RaspberryPi Night Vision Goggles enables night vision and screen capabilities on a RaspberryPi Zero](https://github.com/bvoris/Raspberry-Pi-NightVisionGoggles)
 * [PowerShell: ClickClicky PoSh Scripe to left click the mouse a given number of times](https://github.com/bvoris/Clickyclicky)
 * [Python - Python Font Colors on Screen](https://github.com/bvoris/python-font-colors)
-* [Python - SEC290 Python Class Notes & Content](https://github.com/bvoris/python-font-colors)
+* [Python - SEC290 Python Class Notes & Content](https://github.com/bvoris/sec290pythonclass)
 <BR />
 
 
@@ -158,8 +158,10 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 
 
 ## Connect with me at
-<a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% ALIGN=LEFT></a>
+
+<a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% ALIGN=LEFT></a>	
 <a href="https://www.linkedin.com/in/brad-voris" target="_blank"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/linkedin.png" WIDTH=10% HEIGHT=4% ALIGN=RIGHT></a>
+<BR /> 
+<A HREF="https://www.victimoftechnology.com">Victim Of Technology<A />
 <BR /><BR />
-<CENTER><A HREF="https://www.victimoftechnology.com">Victim Of Technology<A /></CENTER>
-<BR /><BR />
+
