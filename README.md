@@ -43,6 +43,7 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
   * [Published Article: Top Cyber News Magazine - December 2022](https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Top%20Cyber%20News%20Magazine%20December%202022.pdf)
 * Articles
   * [TechNet: Active Directory_ migrating from 2003 to 2012 R2 enterprise multi-site single forest domain - TechNet Articles - United States (English) - TechNet Wiki.pdf](https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Active%20Directory_%20migrating%20from%202003%20to%202012%20R2%20enterprise%20multi-site%20single%20forest%20domain%20-%20TechNet%20Articles%20-%20United%20States%20(English)%20-%20TechNet%20Wiki.pdf)
+  * [Article: From Findings to Fatigue: Hidden Failure Modes of Vulnerability Mismanagement](https://www.linkedin.com/pulse/from-findings-fatigue-hidden-failure-modes-brad-voris-iobzc/?trackingId=%2BblckLsvTPmR41W3y6DiIg%3D%3D)
   * [Article: OT: The Dangers and Technical Security Challenges for the Internet Of Things](https://github.com/bvoris/CollectiveWorks/blob/main/Articles/IoT.docx.pdf)
   * [Article: Mental Health Resource for Technology and Security Professionals - Peerlyst](https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Mental%20Health%20Resource%20for%20Technology%20and%20Security%20Professionals.pdf)
   * [Article: SettingContent-MS File Execution Vulnerability Exploit - Peerlyst](https://github.com/bvoris/CollectiveWorks/blob/main/Articles/SettingContent-MS%20File%20Execution%20Vulnerability%20Exploit.pdf)
