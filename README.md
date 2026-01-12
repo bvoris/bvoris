@@ -79,6 +79,15 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
   * [Guide: My Mentorship Program: What is mentorship, how it works, do you want to be a mentor?](https://github.com/bvoris/MyMentorshipProgram)
   <BR />
 
+<B>Mentorship Program</B><BR />
+<B>Description:</B> Content, guides and general information about mentorship.
+<BR />
+* Guides
+  * [Guide: My Mentorship Program: What is mentorship, how it works, do you want to be a mentor?](https://github.com/bvoris/MyMentorshipProgram)
+  * [Presentation: HOU.SEC.CON 2025 - Mentorship When certifications, experience, a degree, and skills are not enough...](https://github.com/bvoris/houseccon2025presentation/)
+    * [YouTube Presentation](https://www.youtube.com/watch?v=17wCQNgaFsM)
+   
+<BR />
 <B>Security Scripts and Applications</B><BR />
 <B>Description:</B> Security scripts, applications, and security guides.
 <BR />
