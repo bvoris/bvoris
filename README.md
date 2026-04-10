@@ -72,6 +72,7 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
     * [YouTube Presentation](https://www.youtube.com/watch?v=17wCQNgaFsM)
   * [Public Appearance: HOU.SEC.CON 2025 - CISO Series (Quick couple of seconds @about 98 seconds into it) "They don't test their plans..."](https://youtu.be/bVlqLHs9BaQ?si=NnLtVjdKvlI5v6Vm&t=98)
   * [Presentation: InfraGard April 2025 Cloud Security](https://github.com/bvoris/InfraGardPresentation)
+  * [Presentation: OT.SEC.CON 2026 - Keeping Your Milk Cool and Your Tech Safe](https://github.com/bvoris/otseccon2026)
 * Podcasts
   * [Podcast: Breaking into Cybersecurity Leadership - with Host: Christophe Foulon - Brad Voris](https://www.youtube.com/watch?v=JdjavK-YUVY)
   * [Podcast: Cyber Warrior Studios - With Host: Derek Scheller Jr. - Defense in Depth and Secure Architecture](https://www.youtube.com/watch?v=417HVg2_a_I)
