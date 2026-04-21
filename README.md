@@ -76,6 +76,7 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 * Podcasts
   * [Podcast: Breaking into Cybersecurity Leadership - with Host: Christophe Foulon - Brad Voris](https://www.youtube.com/watch?v=JdjavK-YUVY)
   * [Podcast: Cyber Warrior Studios - With Host: Derek Scheller Jr. - Defense in Depth and Secure Architecture](https://www.youtube.com/watch?v=417HVg2_a_I)
+  * [Podcast: BowTieSecurityGuy - After Dark Episode 35 With Special Guest Brad Voris](https://www.youtube.com/watch?v=ipBcs54npsg)
 * Guides
   * [Guide: My Mentorship Program: What is mentorship, how it works, do you want to be a mentor?](https://github.com/bvoris/MyMentorshipProgram)
   <BR />
