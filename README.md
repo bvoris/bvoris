@@ -25,8 +25,9 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 
 [My HOU.SEC.CON 2024 Presentation on MITRE ATT&CK Framework Threat Modeling](https://github.com/bvoris/houseccon2024presentation/)
 <BR /><BR />
-
-[My HOU.SEC.CON 2025 Presentation on Mentorship](https://github.com/bvoris/houseccon2025presentation/)<BR />
+[My HOU.SEC.CON 2025 Presentation on Mentorship](https://github.com/bvoris/houseccon2025presentation/)
+<BR /><BR />
+[My CYBR.SEC.CON 2026 - Standing Apart: In a world of AI, ATS, Ghosting, and steep role requirements how to stand apart.](https://github.com/bvoris/cybrseccon2026presentation)
 <CENTER>
 <IMG SRC="https://github.com/bvoris/cybrseccon2026presentation/blob/main/images/Brad%20Voris%201200x628.png">
 </CENTER>
