@@ -28,7 +28,7 @@ I am starting to shift my focus away from PowerShell scripting to Python develop
 
 [My HOU.SEC.CON 2025 Presentation on Mentorship](https://github.com/bvoris/houseccon2025presentation/)<BR />
 <CENTER>
-<IMG SRC="https://github.com/bvoris/houseccon2025presentation/blob/main/Speaker%20Tiles_LinkedIn_BVoris.jpg">
+<IMG SRC="https://github.com/bvoris/cybrseccon2026presentation/blob/main/images/Brad%20Voris%201200x628.png">
 </CENTER>
 <BR /><BR />
 
